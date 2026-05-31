@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Novelas
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/214335.ts
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/As98iql.png",+SBT Raiz
@@ -7,15 +7,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/214331.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/214300.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/nUrChh4.png",A&E
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37130.ts
-#EXTINF:-1 ,A&E FHD
+#EXTINF:-1 group-title="Filmes e Series",A&E FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/851
-#EXTINF:-1 ,A&E FHD H265
+#EXTINF:-1 group-title="Filmes e Series",A&E FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/210
-#EXTINF:-1 ,A&E HD
+#EXTINF:-1 group-title="Filmes e Series",A&E HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/1
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/nUrChh4.png",A&E HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36929.ts
-#EXTINF:-1 ,A&E SD
+#EXTINF:-1 group-title="Filmes e Series",A&E SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/444
 #EXTINF:-1 group-title="Videos Educativos" tvg-logo="https://i.imgur.com/IJuLq5c.png",Adição e Subtração
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/137940.ts
@@ -35,7 +35,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63649.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/140442.ts
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",Agro Canal HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/71074.ts
-#EXTINF:-1 ,AGRO+ HD
+#EXTINF:-1 group-title="Abertos",AGRO+ HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/428744
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/lp4okGp.png",Agrobrasil TV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90973.ts
@@ -53,15 +53,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/137933.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113401.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/9rlMvYg.png",AMC
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/41087.ts
-#EXTINF:-1 ,AMC FHD
+#EXTINF:-1 group-title="Filmes e Series",AMC FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/840
-#EXTINF:-1 ,AMC FHD H265
+#EXTINF:-1 group-title="Filmes e Series",AMC FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/211
-#EXTINF:-1 ,AMC HD
+#EXTINF:-1 group-title="Filmes e Series",AMC HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/2
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/9rlMvYg.png",AMC HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36928.ts
-#EXTINF:-1 ,AMC SD
+#EXTINF:-1 group-title="Filmes e Series",AMC SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/445
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/oE7GAN2.png",AMC Series HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984406.ts
@@ -69,15 +69,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984406.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002222.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/YNPhY7d.png",Animal Planet
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37128.ts
-#EXTINF:-1 ,ANIMAL PLANET 4K
+#EXTINF:-1 group-title="Documentarios",ANIMAL PLANET 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80557
-#EXTINF:-1 ,ANIMAL PLANET FHD
+#EXTINF:-1 group-title="Documentarios",ANIMAL PLANET FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/804
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/YNPhY7d.png",Animal Planet HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36992.ts
-#EXTINF:-1 ,ANIMAL PLANET HD
+#EXTINF:-1 group-title="Documentarios",ANIMAL PLANET HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/3
-#EXTINF:-1 ,ANIMAL PLANET SD
+#EXTINF:-1 group-title="Documentarios",ANIMAL PLANET SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/446
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/5V7alRE.png",Anime Onegai Action
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002268.ts
@@ -93,15 +93,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/121560.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/56468.ts
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/IXo94zb.png",ANTENA 1 FM
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113396.ts
-#EXTINF:-1 ,ANTENA 1 FM ( RADIOS)
+#EXTINF:-1 group-title="Rádios",ANTENA 1 FM ( RADIOS)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/177
-#EXTINF:-1 ,APPLE TV 01
+#EXTINF:-1 group-title="Variedades",APPLE TV 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/89786
-#EXTINF:-1 ,APPLE TV 02
+#EXTINF:-1 group-title="Variedades",APPLE TV 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/89787
-#EXTINF:-1 ,APPLE TV 03
+#EXTINF:-1 group-title="Variedades",APPLE TV 03
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/89788
-#EXTINF:-1 ,APPLE TV 04
+#EXTINF:-1 group-title="Variedades",APPLE TV 04
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/89789
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/Mf5rO6u.png",Apple TV+ 03 (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952176.ts
@@ -127,13 +127,13 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/140450.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/140451.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/k408ZJ6.png",Arte 1
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37133.ts
-#EXTINF:-1 ,ARTE 1 FHD
+#EXTINF:-1 group-title="Variedades",ARTE 1 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/876
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/k408ZJ6.png",Arte 1 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63637.ts
-#EXTINF:-1 ,ARTE 1 HD
+#EXTINF:-1 group-title="Variedades",ARTE 1 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/130
-#EXTINF:-1 ,ARTE 1 SD
+#EXTINF:-1 group-title="Variedades",ARTE 1 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/2956
 #EXTINF:-1 group-title="Dormir e Relaxar" tvg-logo="https://i.imgur.com/WOk5JUK.png",ASMR 01
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133453.ts
@@ -151,11 +151,11 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133472.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133473.ts
 #EXTINF:-1 group-title="Dormir e Relaxar" tvg-logo="https://i.imgur.com/WOk5JUK.png",ASMR 10
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133474.ts
-#EXTINF:-1 ,AXN FHD
+#EXTINF:-1 group-title="Diversos",AXN FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/835
-#EXTINF:-1 ,AXN FHD H265
+#EXTINF:-1 group-title="Diversos",AXN FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/213
-#EXTINF:-1 ,AXN HD
+#EXTINF:-1 group-title="Filmes e Series",AXN HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/4
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/Dx1sycb.png",AXN HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36991.ts
@@ -167,7 +167,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001965.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90597.ts
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37127.ts
-#EXTINF:-1 ,BAND 4K
+#EXTINF:-1 group-title="Band",BAND 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80551
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Acre HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/963146.ts
@@ -175,19 +175,19 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/963146.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/80913.ts
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Bahia
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/65266.ts
-#EXTINF:-1 ,BAND BAHIA HD
+#EXTINF:-1 group-title="Band",BAND BAHIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/449
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Brasília HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63000.ts
-#EXTINF:-1 ,BAND CAMPINAS FHD
+#EXTINF:-1 group-title="Band",BAND CAMPINAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/388
-#EXTINF:-1 ,BAND CAMPINAS HD
+#EXTINF:-1 group-title="Band",BAND CAMPINAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/320
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Ceará HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/93655.ts
-#EXTINF:-1 ,BAND CURITIBA FHD
+#EXTINF:-1 group-title="Band",BAND CURITIBA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/408
-#EXTINF:-1 ,BAND CURITIBA HD
+#EXTINF:-1 group-title="Band",BAND CURITIBA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/358
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band ES HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/963148.ts
@@ -201,21 +201,21 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36990.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64658.ts
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Maranhao HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/963149.ts
-#EXTINF:-1 ,BAND MINAS FHD
+#EXTINF:-1 group-title="Band",BAND MINAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/311
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Minas HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/100739.ts
-#EXTINF:-1 ,BAND MINAS HD
+#EXTINF:-1 group-title="Band",BAND MINAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/310
-#EXTINF:-1 ,BAND NEWS FHD
+#EXTINF:-1 group-title="Noticias",BAND NEWS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/866
-#EXTINF:-1 ,BAND NEWS FHD H265
+#EXTINF:-1 group-title="Noticias",BAND NEWS FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/214
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VN1Z2T0.png",Band News HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42411.ts
-#EXTINF:-1 ,BAND NEWS HD
+#EXTINF:-1 group-title="Noticias",BAND NEWS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/103
-#EXTINF:-1 ,BAND NEWS SD
+#EXTINF:-1 group-title="Noticias",BAND NEWS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/451
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Piaui HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/963152.ts
@@ -225,33 +225,33 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/100620.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/100621.ts
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Ribeirão Preto HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/972090.ts
-#EXTINF:-1 ,BAND RJ HD
+#EXTINF:-1 group-title="Band",BAND RJ HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/321
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band RN HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91558.ts
-#EXTINF:-1 ,BAND RS HD
+#EXTINF:-1 group-title="Band",BAND RS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/322
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Sergipe HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62992.ts
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band SP
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68522.ts
-#EXTINF:-1 ,BAND SP FHD
+#EXTINF:-1 group-title="Band",BAND SP FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/868
-#EXTINF:-1 ,BAND SP FHD H265
+#EXTINF:-1 group-title="Band",BAND SP FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76679
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band SP HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/41530.ts
-#EXTINF:-1 ,BAND SP HD
+#EXTINF:-1 group-title="Band",BAND SP HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/324
-#EXTINF:-1 ,BAND SP SD
+#EXTINF:-1 group-title="Band",BAND SP SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/450
-#EXTINF:-1 ,BAND SPORTS FHD
+#EXTINF:-1 group-title="Esportes",BAND SPORTS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/768
-#EXTINF:-1 ,BAND SPORTS H265
+#EXTINF:-1 group-title="Esportes",BAND SPORTS H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/215
-#EXTINF:-1 ,BAND SPORTS HD
+#EXTINF:-1 group-title="Esportes",BAND SPORTS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/5
-#EXTINF:-1 ,BAND SPORTS SD
+#EXTINF:-1 group-title="Esportes",BAND SPORTS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/452
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Tatuapé
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/93654.ts
@@ -259,9 +259,9 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/93654.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/963151.ts
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band Tribuna Pernambuco HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/190875.ts
-#EXTINF:-1 ,BAND TV GOIANIA FHD
+#EXTINF:-1 group-title="Band",BAND TV GOIANIA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/299
-#EXTINF:-1 ,BAND TV GOIÂNIA HD
+#EXTINF:-1 group-title="Band",BAND TV GOIÂNIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/87
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/EjpU9TY.png",BandSports
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37125.ts
@@ -277,15 +277,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113411.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002257.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/o0xeDpq.png",BIS
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37131.ts
-#EXTINF:-1 ,BIS FHD
+#EXTINF:-1 group-title="Variedades",BIS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/881
-#EXTINF:-1 ,BIS H265
+#EXTINF:-1 group-title="Variedades",BIS H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/216
-#EXTINF:-1 ,BIS HD
+#EXTINF:-1 group-title="Variedades",BIS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/6
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/o0xeDpq.png",BIS HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36988.ts
-#EXTINF:-1 ,BIS SD
+#EXTINF:-1 group-title="Variedades",BIS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/453
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/mtypMWf.png",BJJ STARS
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91708.ts
@@ -299,55 +299,55 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91579.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002192.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://lge-static.ottera.tv/prod/brn/linear_channel/logo/711x400/brintv_1920x1000_default.png",BR IN TV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002299.ts
-#EXTINF:-1 ,BR SPORT 2 FHD
+#EXTINF:-1 group-title="Esportes",BR SPORT 2 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/450103
-#EXTINF:-1 ,BR SPORT 2 H265
+#EXTINF:-1 group-title="Esportes",BR SPORT 2 H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/236
-#EXTINF:-1 ,BR SPORT 2 HD
+#EXTINF:-1 group-title="Esportes",BR SPORT 2 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/505857
-#EXTINF:-1 ,BR SPORT 2 SD
+#EXTINF:-1 group-title="Esportes",BR SPORT 2 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/432374
-#EXTINF:-1 ,BR SPORT 3 FHD
+#EXTINF:-1 group-title="Esportes",BR SPORT 3 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/772
-#EXTINF:-1 ,BR SPORT 3 H265
+#EXTINF:-1 group-title="Esportes",BR SPORT 3 H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/237
-#EXTINF:-1 ,BR SPORT 3 HD
+#EXTINF:-1 group-title="Esportes",BR SPORT 3 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/23
-#EXTINF:-1 ,BR SPORT 3 SD
+#EXTINF:-1 group-title="Esportes",BR SPORT 3 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/476
-#EXTINF:-1 ,BR SPORT 4 4K
+#EXTINF:-1 group-title="Esportes",BR SPORT 4 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/497305
-#EXTINF:-1 ,BR SPORT 4 FHD
+#EXTINF:-1 group-title="Esportes",BR SPORT 4 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/497306
-#EXTINF:-1 ,BR SPORT 4 HD
+#EXTINF:-1 group-title="Esportes",BR SPORT 4 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/494039
-#EXTINF:-1 ,BR SPORT 4 SD
+#EXTINF:-1 group-title="Esportes",BR SPORT 4 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/503687
-#EXTINF:-1 ,BR SPORT 4K
+#EXTINF:-1 group-title="Esportes",BR SPORT 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454346
-#EXTINF:-1 ,BR SPORT 5 FHD
+#EXTINF:-1 group-title="Esportes",BR SPORT 5 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/773
-#EXTINF:-1 ,BR SPORT 5 H265
+#EXTINF:-1 group-title="Esportes",BR SPORT 5 H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/245
-#EXTINF:-1 ,BR SPORT 5 HD
+#EXTINF:-1 group-title="Esportes",BR SPORT 5 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/32
-#EXTINF:-1 ,BR SPORT 5 SD
+#EXTINF:-1 group-title="Esportes",BR SPORT 5 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/484
-#EXTINF:-1 ,BR SPORT 6 FHD
+#EXTINF:-1 group-title="Esportes",BR SPORT 6 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/770
-#EXTINF:-1 ,BR SPORT 6 H265
+#EXTINF:-1 group-title="Esportes",BR SPORT 6 H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/235
-#EXTINF:-1 ,BR SPORT 6 HD
+#EXTINF:-1 group-title="Esportes",BR SPORT 6 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/26
-#EXTINF:-1 ,BR SPORT 6 SD
+#EXTINF:-1 group-title="Esportes",BR SPORT 6 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76661
-#EXTINF:-1 ,BR SPORT FHD
+#EXTINF:-1 group-title="Esportes",BR SPORT FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/494901
-#EXTINF:-1 ,BR SPORT H265
+#EXTINF:-1 group-title="Esportes",BR SPORT H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/523673
-#EXTINF:-1 ,BR SPORT HD
+#EXTINF:-1 group-title="Esportes",BR SPORT HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454345
-#EXTINF:-1 ,BR SPORT SD
+#EXTINF:-1 group-title="Esportes",BR SPORT SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/523672
 #EXTINF:-1 group-title="Brasileirão" tvg-logo="https://i.imgur.com/Slu70Js.png",Brasileirão Série C 2 (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/89546.ts
@@ -379,11 +379,11 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62235.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965495.ts
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/QUX3tNU.png",Campeonato Alemão 3 (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/87605.ts
-#EXTINF:-1 ,CANAL BRASIL H265
+#EXTINF:-1 group-title="Abertos",CANAL BRASIL H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/218
-#EXTINF:-1 ,CANAL BRASIL HD
+#EXTINF:-1 group-title="Abertos",CANAL BRASIL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/135
-#EXTINF:-1 ,CANAL BRASIL SD
+#EXTINF:-1 group-title="Abertos",CANAL BRASIL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/455
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/e6rjfCG.png",Canal de Carros (Eventos)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/168142.ts
@@ -393,7 +393,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/115356.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133435.ts
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png",Canal do Boi
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/50645.ts
-#EXTINF:-1 ,CANAL DO BOI
+#EXTINF:-1 group-title="Abertos",CANAL DO BOI
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/456
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/4M3ZSeN.png",Canal do Volei (Eventos)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/168143.ts
@@ -409,45 +409,45 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176675.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002307.ts
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://canalrural.uol.com.br/wp-content/uploads/2018/08/canal_rural.png",Canal Rural
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63217.ts
-#EXTINF:-1 ,CANAL RURAL
+#EXTINF:-1 group-title="Abertos",CANAL RURAL
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/198
-#EXTINF:-1 ,CANAL SONY FHD
+#EXTINF:-1 group-title="Abertos",CANAL SONY FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/219
-#EXTINF:-1 ,CANAL SONY FHD H265
+#EXTINF:-1 group-title="Abertos",CANAL SONY FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/844
-#EXTINF:-1 ,CANAL SONY HD
+#EXTINF:-1 group-title="Abertos",CANAL SONY HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/7
-#EXTINF:-1 ,CANAL SONY SD
+#EXTINF:-1 group-title="Abertos",CANAL SONY SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/457
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/0fvekEN.png",Canção Nova
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63630.ts
-#EXTINF:-1 ,CANÇÃO NOVA HD
+#EXTINF:-1 group-title="Religiosos",CANÇÃO NOVA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/199
-#EXTINF:-1 ,CANÇÃO NOVA SD
+#EXTINF:-1 group-title="Religiosos",CANÇÃO NOVA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/458
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/g4bYx27.png",Caras TV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002309.ts
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/dSWSffw.png",Cartoon Network
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37121.ts
-#EXTINF:-1 ,CARTOON NETWORK 4K
+#EXTINF:-1 group-title="Infantil",CARTOON NETWORK 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80558
-#EXTINF:-1 ,CARTOON NETWORK FHD
+#EXTINF:-1 group-title="Infantil",CARTOON NETWORK FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/823
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/dSWSffw.png",Cartoon Network HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36927.ts
-#EXTINF:-1 ,CARTOON NETWORK HD
+#EXTINF:-1 group-title="Infantil",CARTOON NETWORK HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/8
-#EXTINF:-1 ,CARTOON NETWORK SD
+#EXTINF:-1 group-title="Infantil",CARTOON NETWORK SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/459
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/6eZoxoi.png",Cartoonito
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37123.ts
-#EXTINF:-1 ,CARTOONITO FHD
+#EXTINF:-1 group-title="Infantil",CARTOONITO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/822
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/6eZoxoi.png",Cartoonito HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63627.ts
-#EXTINF:-1 ,CARTOONITO HD
+#EXTINF:-1 group-title="Infantil",CARTOONITO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/122
-#EXTINF:-1 ,CARTOONITO SD
+#EXTINF:-1 group-title="Infantil",CARTOONITO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454
 #EXTINF:-1 group-title="Casa do Patrão" tvg-logo="https://i.imgur.com/MN5tnPw.png",Casa do Patrao: Casa Convivencia (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1009226.ts
@@ -467,13 +467,13 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1009222.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1009224.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/ufHPO6R.png",Cazé TV [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002339.ts
-#EXTINF:-1 ,CAZE TV 1
+#EXTINF:-1 group-title="Variedades",CAZE TV 1
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/90526
-#EXTINF:-1 ,CAZE TV 2
+#EXTINF:-1 group-title="Variedades",CAZE TV 2
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/90527
-#EXTINF:-1 ,CAZE TV 3
+#EXTINF:-1 group-title="Variedades",CAZE TV 3
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/537614
-#EXTINF:-1 ,CAZE TV 4
+#EXTINF:-1 group-title="Variedades",CAZE TV 4
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/537615
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 01 (A)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/131929.ts
@@ -513,7 +513,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/215206.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/215225.ts
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Comédia 01 (Netflix)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/69164.ts
-#EXTINF:-1 ,CINE DISNEY
+#EXTINF:-1 group-title="Infantil",CINE DISNEY
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88963
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Drama 01
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002504.ts
@@ -525,9 +525,9 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002698.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002724.ts
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Drama 05
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002726.ts
-#EXTINF:-1 ,CINE FAROESTE
+#EXTINF:-1 group-title="Filmes e Series",CINE FAROESTE
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88962
-#EXTINF:-1 ,CINE FICÇÃO
+#EXTINF:-1 group-title="Filmes e Series",CINE FICÇÃO
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88966
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Kids 02
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002382.ts
@@ -537,7 +537,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002384.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002385.ts
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Kids 05
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002386.ts
-#EXTINF:-1 ,CINE MARVEL
+#EXTINF:-1 group-title="Filmes e Series",CINE MARVEL
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88967
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Marvel 01
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002387.ts
@@ -585,19 +585,19 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/80949.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/80950.ts
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Sky 09
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/80951.ts
-#EXTINF:-1 ,CINE SKY 1
+#EXTINF:-1 group-title="Filmes e Series",CINE SKY 1
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/686
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Sky 10
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/80952.ts
-#EXTINF:-1 ,CINE SKY 2
+#EXTINF:-1 group-title="Filmes e Series",CINE SKY 2
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/687
-#EXTINF:-1 ,CINE SKY 3
+#EXTINF:-1 group-title="Filmes e Series",CINE SKY 3
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/688
-#EXTINF:-1 ,CINE SKY 4
+#EXTINF:-1 group-title="Filmes e Series",CINE SKY 4
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/689
-#EXTINF:-1 ,CINE SKY 5
+#EXTINF:-1 group-title="Filmes e Series",CINE SKY 5
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/690
-#EXTINF:-1 ,CINE STAR WARS
+#EXTINF:-1 group-title="Filmes e Series",CINE STAR WARS
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88965
 #EXTINF:-1 group-title="Cine Bit" tvg-logo="https://i.imgur.com/C7riu3A.png",Cine Sucessos
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/215155.ts
@@ -617,27 +617,27 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002261.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002381.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/70Qi1wZ.png",Cinemax
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37120.ts
-#EXTINF:-1 ,CINEMAX FHD
+#EXTINF:-1 group-title="Filmes e Series",CINEMAX FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/841
-#EXTINF:-1 ,CINEMAX FHD H265
+#EXTINF:-1 group-title="Filmes e Series",CINEMAX FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/221
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/70Qi1wZ.png",Cinemax HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36926.ts
-#EXTINF:-1 ,CINEMAX HD
+#EXTINF:-1 group-title="Filmes e Series",CINEMAX HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/9
-#EXTINF:-1 ,CINEMAX SD
+#EXTINF:-1 group-title="Filmes e Series",CINEMAX SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/460
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/cinespanto_brazil_1400x2000.png",CinEspanto
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002221.ts
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/IXo94zb.png",CLUBE FM
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113414.ts
-#EXTINF:-1 ,CNN BRASIL FHD
+#EXTINF:-1 group-title="Diversos",CNN BRASIL FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/306
-#EXTINF:-1 ,CNN BRASIL HD
+#EXTINF:-1 group-title="Diversos",CNN BRASIL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/102
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/DCzGtce.png",CNN Brasil Money
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225829.ts
-#EXTINF:-1 ,CNN BRASIL SD
+#EXTINF:-1 group-title="Diversos",CNN BRASIL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/588
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/50cg2k5.png",CNN Espanhol
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81018.ts
@@ -649,17 +649,17 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91566.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002275.ts
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/YTCL5so.png",Combate
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37119.ts
-#EXTINF:-1 ,COMBATE 4K
+#EXTINF:-1 group-title="Esportes",COMBATE 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80559
-#EXTINF:-1 ,COMBATE FHD
+#EXTINF:-1 group-title="Esportes",COMBATE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/784
-#EXTINF:-1 ,COMBATE H265
+#EXTINF:-1 group-title="Esportes",COMBATE H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/222
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/YTCL5so.png",Combate HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36986.ts
-#EXTINF:-1 ,COMBATE HD
+#EXTINF:-1 group-title="Esportes",COMBATE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/10
-#EXTINF:-1 ,COMBATE SD
+#EXTINF:-1 group-title="Esportes",COMBATE SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/461
 #EXTINF:-1 group-title="Videos Educativos" tvg-logo="https://i.imgur.com/IJuLq5c.png",Como Aprender a Fazer Contas
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/156921.ts
@@ -695,7 +695,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002310.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/40073.ts
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61961.ts
-#EXTINF:-1 ,Curta !
+#EXTINF:-1 group-title="Diversos",Curta !
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/463
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/r7MYtWr.png",Curta!
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37117.ts
@@ -703,13 +703,13 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37117.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63646.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://image.xumo.com/v1/channels/channel/99992147/600x200.png?type=white_cropped",Dark Matter TV Brazil
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002223.ts
-#EXTINF:-1 ,DAZN 01 HD
+#EXTINF:-1 group-title="Esportes",DAZN 01 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/325
-#EXTINF:-1 ,DAZN 02 HD
+#EXTINF:-1 group-title="Esportes",DAZN 02 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/326
-#EXTINF:-1 ,DAZN 03 HD
+#EXTINF:-1 group-title="Esportes",DAZN 03 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/327
-#EXTINF:-1 ,DAZN 04 HD
+#EXTINF:-1 group-title="Esportes",DAZN 04 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/111
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://i.imgur.com/EFxXOld.png",DAZN 1 (A)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/99871.ts
@@ -743,67 +743,67 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002311.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002197.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/B1DjY6Y.png",Discovery Channel
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37116.ts
-#EXTINF:-1 ,DISCOVERY CHANNEL 4K
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80560
-#EXTINF:-1 ,DISCOVERY CHANNEL FHD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/808
-#EXTINF:-1 ,DISCOVERY CHANNEL H265
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/224
-#EXTINF:-1 ,DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/12
-#EXTINF:-1 ,DISCOVERY CHANNEL SD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/464
-#EXTINF:-1 ,DISCOVERY H&H FHD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY H&H FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/807
-#EXTINF:-1 ,DISCOVERY H&H HD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY H&H HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/14
-#EXTINF:-1 ,DISCOVERY H&H SD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY H&H SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/465
-#EXTINF:-1 ,DISCOVERY KIDS FHD
+#EXTINF:-1 group-title="Infantil",DISCOVERY KIDS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/824
-#EXTINF:-1 ,DISCOVERY KIDS H265
+#EXTINF:-1 group-title="Infantil",DISCOVERY KIDS H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/227
-#EXTINF:-1 ,DISCOVERY KIDS HD
+#EXTINF:-1 group-title="Infantil",DISCOVERY KIDS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/15
-#EXTINF:-1 ,DISCOVERY KIDS SD
+#EXTINF:-1 group-title="Infantil",DISCOVERY KIDS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/466
-#EXTINF:-1 ,DISCOVERY SCIENCE FHD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY SCIENCE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/820
-#EXTINF:-1 ,DISCOVERY SCIENCE H265
+#EXTINF:-1 group-title="Documentarios",DISCOVERY SCIENCE H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/228
-#EXTINF:-1 ,DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY SCIENCE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/16
-#EXTINF:-1 ,DISCOVERY SCIENCE SD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY SCIENCE SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76670
-#EXTINF:-1 ,DISCOVERY THEATER FHD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY THEATER FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/821
-#EXTINF:-1 ,DISCOVERY THEATER H265
+#EXTINF:-1 group-title="Documentarios",DISCOVERY THEATER H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/229
-#EXTINF:-1 ,DISCOVERY THEATER HD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY THEATER HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/17
-#EXTINF:-1 ,DISCOVERY THEATER SD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY THEATER SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76671
 #EXTINF:-1 group-title="Documentarios" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",Discovery Turbo
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37112.ts
-#EXTINF:-1 ,DISCOVERY TURBO FHD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY TURBO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/818
 #EXTINF:-1 group-title="Documentarios" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",Discovery Turbo HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36982.ts
-#EXTINF:-1 ,DISCOVERY TURBO HD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY TURBO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/18
-#EXTINF:-1 ,DISCOVERY TURBO SD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY TURBO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/467
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/jJoaVsR.png",Discovery World
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64498.ts
-#EXTINF:-1 ,DISCOVERY WORLD FHD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/802
-#EXTINF:-1 ,DISCOVERY WORLD H265
+#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/231
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/jJoaVsR.png",Discovery World HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36981.ts
-#EXTINF:-1 ,DISCOVERY WORLD HD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/19
-#EXTINF:-1 ,DISCOVERY WORLD SD
+#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76672
 #EXTINF:-1 group-title="Disney+" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ 1 (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952472.ts
@@ -835,17 +835,17 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002333.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63779.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/HwQDcv3.png",E!
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37108.ts
-#EXTINF:-1 ,E! FHD
+#EXTINF:-1 group-title="Variedades",E! FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/864
-#EXTINF:-1 ,E! H265
+#EXTINF:-1 group-title="Variedades",E! H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/234
-#EXTINF:-1 ,E! HD
+#EXTINF:-1 group-title="Variedades",E! HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/22
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/HwQDcv3.png",E! HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36920.ts
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/HwQDcv3.png",E! HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/221863.ts
-#EXTINF:-1 ,E! SD
+#EXTINF:-1 group-title="Variedades",E! SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/471
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",EPTV Ribeirão
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/40514.ts
@@ -877,11 +877,11 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/140100.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81847.ts
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/W8GoVrw.png",Fight Box HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/89971.ts
-#EXTINF:-1 ,FILM & ART FHD
+#EXTINF:-1 group-title="Filmes e Series",FILM & ART FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/855
-#EXTINF:-1 ,FILM & ART HD
+#EXTINF:-1 group-title="Filmes e Series",FILM & ART HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/125
-#EXTINF:-1 ,FILM & ART SD
+#EXTINF:-1 group-title="Filmes e Series",FILM & ART SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/478
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/ny7Mt46.png",Film&Arts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/41374.ts
@@ -889,31 +889,31 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/41374.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002217.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/GlvC6yX.png",Filmelier TV [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002376.ts
-#EXTINF:-1 ,FISH TV FHD
+#EXTINF:-1 group-title="Variedades",FISH TV FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/239
-#EXTINF:-1 ,FISH TV SD
+#EXTINF:-1 group-title="Variedades",FISH TV SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/479
 #EXTINF:-1 group-title="Videos Educativos" tvg-logo="https://i.imgur.com/IJuLq5c.png",Fonemas e Imagens)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/140445.ts
-#EXTINF:-1 ,FOOD  NETWORK FHD
+#EXTINF:-1 group-title="Diversos",FOOD  NETWORK FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/863
-#EXTINF:-1 ,FOOD NETWORK H265
+#EXTINF:-1 group-title="Diversos",FOOD NETWORK H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/240
-#EXTINF:-1 ,FOOD NETWORK HD
+#EXTINF:-1 group-title="Diversos",FOOD NETWORK HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/27
-#EXTINF:-1 ,FOOD NETWORK SD
+#EXTINF:-1 group-title="Diversos",FOOD NETWORK SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/480
-#EXTINF:-1 ,FURACAO TV (01)
+#EXTINF:-1 group-title="Variedades",FURACAO TV (01)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/200
-#EXTINF:-1 ,FUTURA
+#EXTINF:-1 group-title="Documentarios",FUTURA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/485
-#EXTINF:-1 ,GAUCHA ZH (Radios)
+#EXTINF:-1 group-title="Rádios",GAUCHA ZH (Radios)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/180
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/IXo94zb.png",GAZETA FM
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113407.ts
-#EXTINF:-1 ,GAZETA FM (RADIOS)
+#EXTINF:-1 group-title="Rádios",GAZETA FM (RADIOS)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/188
-#EXTINF:-1 ,GERAÇÃO FUNK FM (RADIOS)
+#EXTINF:-1 group-title="Rádios",GERAÇÃO FUNK FM (RADIOS)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/191
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Anhanguera
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/38966.ts
@@ -923,113 +923,113 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/72893.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/72815.ts
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Brasília
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37095.ts
-#EXTINF:-1 ,GLOBO EPTV CAMPINAS FHD
+#EXTINF:-1 group-title="Variedades",GLOBO EPTV CAMPINAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/364
-#EXTINF:-1 ,GLOBO EPTV CAMPINAS HD
+#EXTINF:-1 group-title="Variedades",GLOBO EPTV CAMPINAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/363
-#EXTINF:-1 ,GLOBO EPTV CAMPINAS SD
+#EXTINF:-1 group-title="Variedades",GLOBO EPTV CAMPINAS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/473
-#EXTINF:-1 ,GLOBO EPTV RIBEIRAO PRETO FHD
+#EXTINF:-1 group-title="Variedades",GLOBO EPTV RIBEIRAO PRETO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/368
-#EXTINF:-1 ,GLOBO EPTV RIBEIRAO PRETO HD
+#EXTINF:-1 group-title="Variedades",GLOBO EPTV RIBEIRAO PRETO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/729
-#EXTINF:-1 ,GLOBO EPTV SAO CARLOS SD
+#EXTINF:-1 group-title="Variedades",GLOBO EPTV SAO CARLOS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/472
-#EXTINF:-1 ,GLOBO EPTV SUL DE MINAS FHD
+#EXTINF:-1 group-title="Variedades",GLOBO EPTV SUL DE MINAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/369
-#EXTINF:-1 ,GLOBO EPTV SUL DE MINAS HD
+#EXTINF:-1 group-title="Variedades",GLOBO EPTV SUL DE MINAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/728
-#EXTINF:-1 ,GLOBO INTEGRAÇÃO UBERLÂNDIA FHD
+#EXTINF:-1 group-title="Abertos",GLOBO INTEGRAÇÃO UBERLÂNDIA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/396
-#EXTINF:-1 ,GLOBO INTEGRAÇÃO UBERLÂNDIA HD
+#EXTINF:-1 group-title="Abertos",GLOBO INTEGRAÇÃO UBERLÂNDIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/395
-#EXTINF:-1 ,GLOBO INTER DO VALE MG FHD
+#EXTINF:-1 group-title="Abertos",GLOBO INTER DO VALE MG FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/392
-#EXTINF:-1 ,GLOBO INTER TV RJ FHD ( REGIAO SERRANA)
+#EXTINF:-1 group-title="Variedades",GLOBO INTER TV RJ FHD ( REGIAO SERRANA)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/390
-#EXTINF:-1 ,GLOBO INTER TV RJ HD (REGIAO SERRANA)
+#EXTINF:-1 group-title="Variedades",GLOBO INTER TV RJ HD (REGIAO SERRANA)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/389
-#EXTINF:-1 ,GLOBO INTER VALE MG HD
+#EXTINF:-1 group-title="Abertos",GLOBO INTER VALE MG HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/391
-#EXTINF:-1 ,GLOBO JOAÇABA FHD
+#EXTINF:-1 group-title="Abertos",GLOBO JOAÇABA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/752
-#EXTINF:-1 ,GLOBO JOAÇABA HD
+#EXTINF:-1 group-title="Abertos",GLOBO JOAÇABA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/753
-#EXTINF:-1 ,GLOBO JUIZ DE FORA MG FHD
+#EXTINF:-1 group-title="Abertos",GLOBO JUIZ DE FORA MG FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/750
-#EXTINF:-1 ,GLOBO JUIZ DE FORA MG HD
+#EXTINF:-1 group-title="Abertos",GLOBO JUIZ DE FORA MG HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/751
-#EXTINF:-1 ,GLOBO MINAS FHD
+#EXTINF:-1 group-title="Abertos",GLOBO MINAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/720
-#EXTINF:-1 ,GLOBO MINAS HD
+#EXTINF:-1 group-title="Abertos",GLOBO MINAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/724
-#EXTINF:-1 ,GLOBO MINAS SD
+#EXTINF:-1 group-title="Abertos",GLOBO MINAS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/488
-#EXTINF:-1 ,GLOBO MOGI DAS CRUZES FHD
+#EXTINF:-1 group-title="Abertos",GLOBO MOGI DAS CRUZES FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/754
-#EXTINF:-1 ,GLOBO MOGI DAS CRUZES HD
+#EXTINF:-1 group-title="Abertos",GLOBO MOGI DAS CRUZES HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/755
-#EXTINF:-1 ,GLOBO MONTES CLAROS MG FHD
+#EXTINF:-1 group-title="Abertos",GLOBO MONTES CLAROS MG FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/744
-#EXTINF:-1 ,GLOBO NEWS FHD
+#EXTINF:-1 group-title="Noticias",GLOBO NEWS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/853
-#EXTINF:-1 ,GLOBO NEWS HD
+#EXTINF:-1 group-title="Noticias",GLOBO NEWS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/35
-#EXTINF:-1 ,GLOBO NEWS SD
+#EXTINF:-1 group-title="Noticias",GLOBO NEWS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/489
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Nordeste
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37092.ts
-#EXTINF:-1 ,GLOBO NORDESTE FHD
+#EXTINF:-1 group-title="Globo",GLOBO NORDESTE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/393
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Nordeste HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/38971.ts
-#EXTINF:-1 ,GLOBO NORDESTE HD
+#EXTINF:-1 group-title="Globo",GLOBO NORDESTE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/394
-#EXTINF:-1 ,GLOBO NORDESTE SD
+#EXTINF:-1 group-title="Globo",GLOBO NORDESTE SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/490
-#EXTINF:-1 ,GLOBO NSC BLUMENAU FHD
+#EXTINF:-1 group-title="Abertos",GLOBO NSC BLUMENAU FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/430
-#EXTINF:-1 ,GLOBO NSC BLUMENAU HD
+#EXTINF:-1 group-title="Abertos",GLOBO NSC BLUMENAU HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/431
-#EXTINF:-1 ,GLOBO NSC CRICIUMA HD
+#EXTINF:-1 group-title="Abertos",GLOBO NSC CRICIUMA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/86414
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo NSC TV Blumenau
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91283.ts
-#EXTINF:-1 ,GLOBO NSC TV CHAPECO FHD
+#EXTINF:-1 group-title="Variedades",GLOBO NSC TV CHAPECO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/418
-#EXTINF:-1 ,GLOBO NSC TV CHAPECO HD
+#EXTINF:-1 group-title="Variedades",GLOBO NSC TV CHAPECO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/417
-#EXTINF:-1 ,GLOBO NSC TV FLORIANOPOLIS FHD
+#EXTINF:-1 group-title="Variedades",GLOBO NSC TV FLORIANOPOLIS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76677
-#EXTINF:-1 ,GLOBO NSC TV FLORIANOPOLIS HD
+#EXTINF:-1 group-title="Variedades",GLOBO NSC TV FLORIANOPOLIS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/725
-#EXTINF:-1 ,GLOBO NSC TV JOINVILLE FHD
+#EXTINF:-1 group-title="Variedades",GLOBO NSC TV JOINVILLE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/731
-#EXTINF:-1 ,GLOBO NSC TV JOINVILLE HD
+#EXTINF:-1 group-title="Variedades",GLOBO NSC TV JOINVILLE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/732
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo NSC TV Santa Catarina HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/65270.ts
-#EXTINF:-1 ,GLOBO PARAIBA HD
+#EXTINF:-1 group-title="Abertos",GLOBO PARAIBA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/718
-#EXTINF:-1 ,GLOBO PRESIDENTE PRUDENTE SP FHD
+#EXTINF:-1 group-title="Abertos",GLOBO PRESIDENTE PRUDENTE SP FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/748
-#EXTINF:-1 ,GLOBO PRESIDENTE PRUDENTE SP HD
+#EXTINF:-1 group-title="Abertos",GLOBO PRESIDENTE PRUDENTE SP HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/749
-#EXTINF:-1 ,GLOBO RBS PASSO FUNDO HD
+#EXTINF:-1 group-title="Abertos",GLOBO RBS PASSO FUNDO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/415
-#EXTINF:-1 ,GLOBO RBS PELOTAS FHD
+#EXTINF:-1 group-title="Abertos",GLOBO RBS PELOTAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/374
-#EXTINF:-1 ,GLOBO RBS PELOTAS HD
+#EXTINF:-1 group-title="Abertos",GLOBO RBS PELOTAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/375
-#EXTINF:-1 ,GLOBO RBS PORTO ALEGRE FHD
+#EXTINF:-1 group-title="Abertos",GLOBO RBS PORTO ALEGRE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/743
-#EXTINF:-1 ,GLOBO RBS PORTO ALEGRE HD
+#EXTINF:-1 group-title="Abertos",GLOBO RBS PORTO ALEGRE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/337
-#EXTINF:-1 ,GLOBO RBS TV STA MARIA HD
+#EXTINF:-1 group-title="Variedades",GLOBO RBS TV STA MARIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/800
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Recife HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64653.ts
-#EXTINF:-1 ,GLOBO RECIFE HD
+#EXTINF:-1 group-title="Globo",GLOBO RECIFE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76688
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Rede Amazonica
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63414.ts
@@ -1037,189 +1037,189 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63414.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37091.ts
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Rio Interior HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91264.ts
-#EXTINF:-1 ,GLOBO RJ FHD
+#EXTINF:-1 group-title="Abertos",GLOBO RJ FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/362
-#EXTINF:-1 ,GLOBO RJ H265
+#EXTINF:-1 group-title="Abertos",GLOBO RJ H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76673
-#EXTINF:-1 ,GLOBO RJ HD
+#EXTINF:-1 group-title="Abertos",GLOBO RJ HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/335
-#EXTINF:-1 ,GLOBO RJ SD
+#EXTINF:-1 group-title="Abertos",GLOBO RJ SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/491
-#EXTINF:-1 ,GLOBO RPC CASCAVEL FHD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC CASCAVEL FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/402
-#EXTINF:-1 ,GLOBO RPC CASCAVEL HD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC CASCAVEL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/401
-#EXTINF:-1 ,GLOBO RPC CURITIBA FHD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC CURITIBA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/406
-#EXTINF:-1 ,GLOBO RPC CURITIBA HD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC CURITIBA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/405
-#EXTINF:-1 ,GLOBO RPC CURITIBA SD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC CURITIBA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/539
-#EXTINF:-1 ,GLOBO RPC FOZ DO IGUAÇU FHD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC FOZ DO IGUAÇU FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/376
-#EXTINF:-1 ,GLOBO RPC LONDRINA HD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC LONDRINA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/357
-#EXTINF:-1 ,GLOBO RPC MARINGÁ FHD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC MARINGÁ FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/89933
-#EXTINF:-1 ,GLOBO RPC MARINGÁ HD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC MARINGÁ HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/89932
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo RPC Parana HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63695.ts
-#EXTINF:-1 ,GLOBO RPC PARANAVAÍ FHD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC PARANAVAÍ FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/735
-#EXTINF:-1 ,GLOBO RPC PARANAVAI HD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC PARANAVAI HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/736
-#EXTINF:-1 ,GLOBO RPC PARANAVAI SD
+#EXTINF:-1 group-title="Abertos",GLOBO RPC PARANAVAI SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/94568
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo Santos HD DUAL AUDIO
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91290.ts
-#EXTINF:-1 ,GLOBO SP FHD
+#EXTINF:-1 group-title="Abertos",GLOBO SP FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/715
-#EXTINF:-1 ,GLOBO SP FHD H265
+#EXTINF:-1 group-title="Abertos",GLOBO SP FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/714
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo SP HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37090.ts
-#EXTINF:-1 ,GLOBO SP HD
+#EXTINF:-1 group-title="Globo",GLOBO SP HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/741
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo SP SD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37361.ts
-#EXTINF:-1 ,GLOBO SP SD
+#EXTINF:-1 group-title="Globo",GLOBO SP SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/492
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Amazônica
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63631.ts
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Anhanguera
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42962.ts
-#EXTINF:-1 ,GLOBO TV ANHANGUERA GO FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV ANHANGUERA GO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/432
-#EXTINF:-1 ,GLOBO TV ANHANGUERA GO HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV ANHANGUERA GO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/86
-#EXTINF:-1 ,GLOBO TV ANHANGUERA GO SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV ANHANGUERA GO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/86090
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Asa Branca
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73098.ts
-#EXTINF:-1 ,GLOBO TV ASA BRANCA PE FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV ASA BRANCA PE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/139
-#EXTINF:-1 ,GLOBO TV ASA BRANCA PE HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV ASA BRANCA PE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/717
-#EXTINF:-1 ,GLOBO TV BAHIA  FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV BAHIA  FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/379
-#EXTINF:-1 ,GLOBO TV BAHIA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV BAHIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/380
-#EXTINF:-1 ,GLOBO TV BAHIA SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV BAHIA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/565
-#EXTINF:-1 ,GLOBO TV BRASILIA FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV BRASILIA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/719
-#EXTINF:-1 ,GLOBO TV BRASILIA H265
+#EXTINF:-1 group-title="Variedades",GLOBO TV BRASILIA H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/434
-#EXTINF:-1 ,GLOBO TV BRASILIA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV BRASILIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/334
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Cabo Branco HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52545.ts
-#EXTINF:-1 ,GLOBO TV CABO BRANCO JOAO PESSOA  FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV CABO BRANCO JOAO PESSOA  FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/420
-#EXTINF:-1 ,GLOBO TV CABO BRANCO JOAO PESSOA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV CABO BRANCO JOAO PESSOA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/419
-#EXTINF:-1 ,GLOBO TV CABUGI FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV CABUGI FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/440
-#EXTINF:-1 ,GLOBO TV CABUGI HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV CABUGI HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/441
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Centro América Cuiabá
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/75486.ts
-#EXTINF:-1 ,GLOBO TV CENTRO AMERICA SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV CENTRO AMERICA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/567
-#EXTINF:-1 ,GLOBO TV CLUBE PI HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV CLUBE PI HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/716
-#EXTINF:-1 ,GLOBO TV GAZETA ALAGOAS FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV GAZETA ALAGOAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/425
-#EXTINF:-1 ,GLOBO TV GAZETA ALAGOAS HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV GAZETA ALAGOAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/424
-#EXTINF:-1 ,GLOBO TV GAZETA SUL ES FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV GAZETA SUL ES FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/78530
-#EXTINF:-1 ,GLOBO TV GAZETA SUL ES HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV GAZETA SUL ES HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/78531
-#EXTINF:-1 ,GLOBO TV GAZETA VITORIA ES FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV GAZETA VITORIA ES FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/414
-#EXTINF:-1 ,GLOBO TV GAZETA VITORIA ES HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV GAZETA VITORIA ES HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/413
-#EXTINF:-1 ,GLOBO TV INTEGRAÇÃO ARAXÁ HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV INTEGRAÇÃO ARAXÁ HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/409
-#EXTINF:-1 ,GLOBO TV INTEGRAÇÃO ITUIUTABA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV INTEGRAÇÃO ITUIUTABA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/411
-#EXTINF:-1 ,GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/410
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Integração Uberaba HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/75484.ts
-#EXTINF:-1 ,GLOBO TV INTEGRAÇÃO UBERABA HD
+#EXTINF:-1 group-title="Globo",GLOBO TV INTEGRAÇÃO UBERABA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/313
-#EXTINF:-1 ,GLOBO TV INTER CABUGI SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV INTER CABUGI SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/502
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Liberal Belem HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63654.ts
-#EXTINF:-1 ,GLOBO TV LIBERAL BELEM SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV LIBERAL BELEM SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/570
-#EXTINF:-1 ,GLOBO TV LIBERAL HD (BELEM)
+#EXTINF:-1 group-title="Variedades",GLOBO TV LIBERAL HD (BELEM)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/365
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Mirante Bolsas HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/107572.ts
-#EXTINF:-1 ,GLOBO TV MIRANTE HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV MIRANTE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/721
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Morena Campo Grande
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42992.ts
-#EXTINF:-1 ,GLOBO TV MORENA FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV MORENA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/733
-#EXTINF:-1 ,GLOBO TV MORENA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV MORENA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/734
-#EXTINF:-1 ,GLOBO TV REDE AMAZONICA MANAUS HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV REDE AMAZONICA MANAUS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/757
-#EXTINF:-1 ,GLOBO TV REDE AMAZONICA MANAUS SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV REDE AMAZONICA MANAUS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/756
-#EXTINF:-1 ,GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV REDE AMAZONICA PORTO VELHO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/427
-#EXTINF:-1 ,GLOBO TV REDE AMAZONICA PORTO VELHO HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV REDE AMAZONICA PORTO VELHO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/426
-#EXTINF:-1 ,GLOBO TV REDE AMAZONICA PORTO VELHO SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV REDE AMAZONICA PORTO VELHO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/422
-#EXTINF:-1 ,GLOBO TV RIO SUL HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV RIO SUL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/86682
-#EXTINF:-1 ,GLOBO TV RIO SUL SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV RIO SUL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/86683
-#EXTINF:-1 ,GLOBO TV SANTA CRUZ
+#EXTINF:-1 group-title="Variedades",GLOBO TV SANTA CRUZ
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/352
-#EXTINF:-1 ,GLOBO TV SERGIPE HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV SERGIPE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/336
-#EXTINF:-1 ,GLOBO TV SUBAE HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV SUBAE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/353
-#EXTINF:-1 ,GLOBO TV TEM BAURU FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TEM BAURU FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/737
-#EXTINF:-1 ,GLOBO TV TEM BAURU HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TEM BAURU HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/738
-#EXTINF:-1 ,GLOBO TV TEM ITAPETININGA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TEM ITAPETININGA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/573
-#EXTINF:-1 ,GLOBO TV TEM S. J. RIO PRETO HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TEM S. J. RIO PRETO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/314
-#EXTINF:-1 ,GLOBO TV TEM SOROCABA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TEM SOROCABA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/412
-#EXTINF:-1 ,GLOBO TV TEM SOROCABA SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TEM SOROCABA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/575
-#EXTINF:-1 ,GLOBO TV TRIBUNA SANTOS FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TRIBUNA SANTOS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/384
-#EXTINF:-1 ,GLOBO TV TRIBUNA SANTOS HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TRIBUNA SANTOS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/383
-#EXTINF:-1 ,GLOBO TV TRIBUNA SANTOS SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV TRIBUNA SANTOS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/576
-#EXTINF:-1 ,GLOBO TV VANGUARDA S J CAMPOS FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV VANGUARDA S J CAMPOS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/377
-#EXTINF:-1 ,GLOBO TV VANGUARDA S J CAMPOS HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV VANGUARDA S J CAMPOS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/577
-#EXTINF:-1 ,GLOBO TV VANGUARDA S J CAMPOS SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV VANGUARDA S J CAMPOS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/378
-#EXTINF:-1 ,GLOBO TV VERDES MARES FORTALEZA FHD
+#EXTINF:-1 group-title="Variedades",GLOBO TV VERDES MARES FORTALEZA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76701
-#EXTINF:-1 ,GLOBO TV VERDES MARES FORTALEZA FHD (H265)
+#EXTINF:-1 group-title="Variedades",GLOBO TV VERDES MARES FORTALEZA FHD (H265)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76702
-#EXTINF:-1 ,GLOBO TV VERDES MARES FORTALEZA HD
+#EXTINF:-1 group-title="Variedades",GLOBO TV VERDES MARES FORTALEZA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/366
-#EXTINF:-1 ,GLOBO TV VERDES MARES FORTALEZA SD
+#EXTINF:-1 group-title="Variedades",GLOBO TV VERDES MARES FORTALEZA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/578
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Globo TV Vitória da Conquista HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/215139.ts
@@ -1229,25 +1229,25 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37093.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36917.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/jE6cjYd.png",Globoplay Novelas
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36997.ts
-#EXTINF:-1 ,GLOBOPLAY NOVELAS FHD
+#EXTINF:-1 group-title="Variedades",GLOBOPLAY NOVELAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/865
-#EXTINF:-1 ,GLOBOPLAY NOVELAS HD
+#EXTINF:-1 group-title="Variedades",GLOBOPLAY NOVELAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/92
-#EXTINF:-1 ,GLOBOPLAY NOVELAS SD
+#EXTINF:-1 group-title="Variedades",GLOBOPLAY NOVELAS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/580
-#EXTINF:-1 ,GLOBOPLAY+ 01
+#EXTINF:-1 group-title="Variados",GLOBOPLAY+ 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/85879
-#EXTINF:-1 ,GLOBOPLAY+ 02
+#EXTINF:-1 group-title="Variados",GLOBOPLAY+ 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/85880
-#EXTINF:-1 ,GLOOB FHD
+#EXTINF:-1 group-title="Diversos",GLOOB FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/827
-#EXTINF:-1 ,GLOOB H265
+#EXTINF:-1 group-title="Diversos",GLOOB H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/248
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/Flmlkhi.png",Gloob HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36915.ts
-#EXTINF:-1 ,GLOOB HD
+#EXTINF:-1 group-title="Infantil",GLOOB HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/37
-#EXTINF:-1 ,GLOOB SD
+#EXTINF:-1 group-title="Diversos",GLOOB SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/493
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/KC9T8wA.png",Gloobinho
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63720.ts
@@ -1255,19 +1255,19 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63720.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/38969.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/Hjhea73.png",GNT
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37088.ts
-#EXTINF:-1 ,GNT FHD
+#EXTINF:-1 group-title="Variedades",GNT FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/862
-#EXTINF:-1 ,GNT HD
+#EXTINF:-1 group-title="Variedades",GNT HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/38
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/Hjhea73.png",GNT HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36967.ts
-#EXTINF:-1 ,GNT SD
+#EXTINF:-1 group-title="Variedades",GNT SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/494
-#EXTINF:-1 ,GOAT 01
+#EXTINF:-1 group-title="Diversos",GOAT 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/469593
-#EXTINF:-1 ,GOAT 02
+#EXTINF:-1 group-title="Diversos",GOAT 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/469594
-#EXTINF:-1 ,GOAT 03
+#EXTINF:-1 group-title="Diversos",GOAT 03
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/469595
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/lzO7xX6.png",Gospel Cartoon
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/104069.ts
@@ -1291,155 +1291,155 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952070.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952069.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://image.xumo.com/v1/channels/channel/99992148/600x200.png?type=white_cropped",Hard Knocks Fighting Championship
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002262.ts
-#EXTINF:-1 ,HBO 2 FHD
+#EXTINF:-1 group-title="Filmes e Series",HBO 2 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/793
-#EXTINF:-1 ,HBO 2 H265
+#EXTINF:-1 group-title="Filmes e Series",HBO 2 H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/254
-#EXTINF:-1 ,HBO 2 HD
+#EXTINF:-1 group-title="Filmes e Series",HBO 2 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/39
-#EXTINF:-1 ,HBO 2 SD
+#EXTINF:-1 group-title="Filmes e Series",HBO 2 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/499
-#EXTINF:-1 ,HBO 4K
+#EXTINF:-1 group-title="Filmes e Series",HBO 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80564
-#EXTINF:-1 ,HBO FAMILY FHD
+#EXTINF:-1 group-title="Filmes e Series",HBO FAMILY FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/795
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/f181m4I.png",HBO Family HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36965.ts
-#EXTINF:-1 ,HBO FAMILY HD
+#EXTINF:-1 group-title="HBO",HBO FAMILY HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/40
-#EXTINF:-1 ,HBO FAMILY SD
+#EXTINF:-1 group-title="Filmes e Series",HBO FAMILY SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/496
-#EXTINF:-1 ,HBO FHD
+#EXTINF:-1 group-title="Filmes e Series",HBO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/792
-#EXTINF:-1 ,HBO H265
+#EXTINF:-1 group-title="Filmes e Series",HBO H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/251
-#EXTINF:-1 ,HBO HD
+#EXTINF:-1 group-title="Filmes e Series",HBO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/41
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/U5LrKAW.png",HBO HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81790.ts
-#EXTINF:-1 ,HBO MAX 01
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/78527
-#EXTINF:-1 ,HBO MAX 02
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/204
-#EXTINF:-1 ,HBO MAX 03
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 03
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/205
-#EXTINF:-1 ,HBO MAX 04
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 04
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/206
-#EXTINF:-1 ,HBO MAX 05
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 05
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76696
-#EXTINF:-1 ,HBO MAX 06
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 06
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/529221
-#EXTINF:-1 ,HBO MAX 07
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 07
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/529222
-#EXTINF:-1 ,HBO MAX 08
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 08
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/529223
-#EXTINF:-1 ,HBO MAX 09
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 09
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541212
-#EXTINF:-1 ,HBO MAX 10
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 10
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541213
-#EXTINF:-1 ,HBO MAX 11
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 11
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541214
-#EXTINF:-1 ,HBO MAX 12
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 12
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541215
-#EXTINF:-1 ,HBO MAX 14
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 14
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541217
-#EXTINF:-1 ,HBO MAX 15
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 15
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541218
-#EXTINF:-1 ,HBO MAX 16
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 16
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541219
-#EXTINF:-1 ,HBO MAX 17
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 17
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541220
-#EXTINF:-1 ,HBO MAX 18
+#EXTINF:-1 group-title="Filmes e Series",HBO MAX 18
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/541221
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/B6EZjKx.png",HBO Mundi
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37076.ts
-#EXTINF:-1 ,HBO MUNDI FHD
+#EXTINF:-1 group-title="HBO",HBO MUNDI FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/797
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/B6EZjKx.png",HBO Mundi HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36913.ts
-#EXTINF:-1 ,HBO MUNDI HD
+#EXTINF:-1 group-title="HBO",HBO MUNDI HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/260
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/B6EZjKx.png",HBO Mundi HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81796.ts
-#EXTINF:-1 ,HBO MUNDI SD
+#EXTINF:-1 group-title="HBO",HBO MUNDI SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/48
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/AKrQpLY.png",HBO Plus
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37084.ts
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/AKrQpLY.png",HBO Plus E
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37083.ts
-#EXTINF:-1 ,HBO PLUS FHD
+#EXTINF:-1 group-title="HBO",HBO PLUS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/794
-#EXTINF:-1 ,HBO PLUS H265
+#EXTINF:-1 group-title="HBO",HBO PLUS H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/252
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/AKrQpLY.png",HBO Plus HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36963.ts
-#EXTINF:-1 ,HBO PLUS HD
+#EXTINF:-1 group-title="HBO",HBO PLUS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/42
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/AKrQpLY.png",HBO Plus HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81792.ts
-#EXTINF:-1 ,HBO PLUS SD
+#EXTINF:-1 group-title="HBO",HBO PLUS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/497
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/5YkOnWL.png",HBO POP
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37073.ts
-#EXTINF:-1 ,HBO POP FHD
+#EXTINF:-1 group-title="HBO",HBO POP FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/799
-#EXTINF:-1 ,HBO POP HD
+#EXTINF:-1 group-title="HBO",HBO POP HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/262
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/5YkOnWL.png",HBO POP HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36911.ts
-#EXTINF:-1 ,HBO POP SD
+#EXTINF:-1 group-title="HBO",HBO POP SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/50
-#EXTINF:-1 ,HBO SD
+#EXTINF:-1 group-title="Filmes e Series",HBO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/495
-#EXTINF:-1 ,HBO SIGNATURE FHD
+#EXTINF:-1 group-title="Filmes e Series",HBO SIGNATURE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/796
-#EXTINF:-1 ,HBO SIGNATURE H265
+#EXTINF:-1 group-title="Filmes e Series",HBO SIGNATURE H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/253
-#EXTINF:-1 ,HBO SIGNATURE HD
+#EXTINF:-1 group-title="Filmes e Series",HBO SIGNATURE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/43
-#EXTINF:-1 ,HBO SIGNATURE SD
+#EXTINF:-1 group-title="Filmes e Series",HBO SIGNATURE SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/498
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/KkyoQPI.png",HBO Xtreme E
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37074.ts
-#EXTINF:-1 ,HBO XTREME FHD
+#EXTINF:-1 group-title="Filmes e Series",HBO XTREME FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/798
-#EXTINF:-1 ,HBO XTREME FHD H265
+#EXTINF:-1 group-title="Filmes e Series",HBO XTREME FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/261
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/KkyoQPI.png",HBO Xtreme HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36912.ts
-#EXTINF:-1 ,HBO XTREME HD
+#EXTINF:-1 group-title="HBO",HBO XTREME HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/49
-#EXTINF:-1 ,HBO XTREME SD
+#EXTINF:-1 group-title="Filmes e Series",HBO XTREME SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76662
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/WYHgoaz.png",HGTV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63272.ts
-#EXTINF:-1 ,HGTV FHD
+#EXTINF:-1 group-title="Documentarios",HGTV FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/861
-#EXTINF:-1 ,HGTV H265
+#EXTINF:-1 group-title="Documentarios",HGTV H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/225
-#EXTINF:-1 ,HGTV HD
+#EXTINF:-1 group-title="Documentarios",HGTV HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/13
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/N5hD6LT.png",History 2
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42915.ts
-#EXTINF:-1 ,HISTORY 2 FHD
+#EXTINF:-1 group-title="Documentarios",HISTORY 2 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/806
-#EXTINF:-1 ,HISTORY 2 H265
+#EXTINF:-1 group-title="Documentarios",HISTORY 2 H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/256
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/N5hD6LT.png",History 2 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36961.ts
-#EXTINF:-1 ,HISTORY 2 HD
+#EXTINF:-1 group-title="Documentarios",HISTORY 2 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/44
-#EXTINF:-1 ,HISTORY 2 SD
+#EXTINF:-1 group-title="Documentarios",HISTORY 2 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/500
-#EXTINF:-1 ,HISTORY FHD
+#EXTINF:-1 group-title="Diversos",HISTORY FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/781
-#EXTINF:-1 ,HISTORY H265
+#EXTINF:-1 group-title="Diversos",HISTORY H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/255
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/q8LyHSH.png",History HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36960.ts
-#EXTINF:-1 ,HISTORY HD
+#EXTINF:-1 group-title="Documentarios",HISTORY HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/45
-#EXTINF:-1 ,HISTORY SD
+#EXTINF:-1 group-title="Diversos",HISTORY SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/584
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/PSHeTFY.png",Homeful
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002196.ts
@@ -1469,33 +1469,33 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52572.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52573.ts
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",InterTV Cabo Frio HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64591.ts
-#EXTINF:-1 ,INVESTIGAÇAO DISCOVERY FHD
+#EXTINF:-1 group-title="Documentarios",INVESTIGAÇAO DISCOVERY FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/819
-#EXTINF:-1 ,INVESTIGAÇAO DISCOVERY H265
+#EXTINF:-1 group-title="Documentarios",INVESTIGAÇAO DISCOVERY H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/257
-#EXTINF:-1 ,INVESTIGAÇAO DISCOVERY HD
+#EXTINF:-1 group-title="Documentarios",INVESTIGAÇAO DISCOVERY HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/46
-#EXTINF:-1 ,INVESTIGAÇAO DISCOVERY SD
+#EXTINF:-1 group-title="Documentarios",INVESTIGAÇAO DISCOVERY SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/501
-#EXTINF:-1 ,ISTV HD
+#EXTINF:-1 group-title="Variedades",ISTV HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/31746
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/IXo94zb.png",JB FM
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113405.ts
 #EXTINF:-1 group-title="Jogos de Hoje" tvg-logo="https://i.imgur.com/rAOrWxU.png",Jogos de Hoje
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/194567.ts
-#EXTINF:-1 ,JOVEM PAN FHD
+#EXTINF:-1 group-title="Diversos",JOVEM PAN FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/886
-#EXTINF:-1 ,JOVEM PAN FHD H265
+#EXTINF:-1 group-title="Diversos",JOVEM PAN FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76659
-#EXTINF:-1 ,JOVEM PAN HD
+#EXTINF:-1 group-title="Diversos",JOVEM PAN HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/209
-#EXTINF:-1 ,JOVEM PAN NEWS 4K
+#EXTINF:-1 group-title="Noticias",JOVEM PAN NEWS 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/81009
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/wHJVTMP.png",Jovem Pan News HD (A)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/83443.ts
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/wHJVTMP.png",Jovem Pan News HD (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85005.ts
-#EXTINF:-1 ,JOVEM PAN SD
+#EXTINF:-1 group-title="Diversos",JOVEM PAN SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76660
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/vSm5wJo.jpeg",Just for Laughs Gags
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002198.ts
@@ -1511,15 +1511,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002276.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002355.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/nIx0vbe.png",Lifetime
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37077.ts
-#EXTINF:-1 ,LIFETIME FHD
+#EXTINF:-1 group-title="Filmes e Series",LIFETIME FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/801
-#EXTINF:-1 ,LIFETIME H265
+#EXTINF:-1 group-title="Filmes e Series",LIFETIME H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/258
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/nIx0vbe.png",Lifetime HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36914.ts
-#EXTINF:-1 ,LIFETIME HD
+#EXTINF:-1 group-title="Filmes e Series",LIFETIME HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/47
-#EXTINF:-1 ,LIFETIME SD
+#EXTINF:-1 group-title="Filmes e Series",LIFETIME SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/503
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/UPERkum.png",Like HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91508.ts
@@ -1599,19 +1599,19 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933923.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933925.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37072.ts
-#EXTINF:-1 ,MEGAPIX 4K
+#EXTINF:-1 group-title="Filmes e Series",MEGAPIX 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80565
-#EXTINF:-1 ,MEGAPIX FHD
+#EXTINF:-1 group-title="Filmes e Series",MEGAPIX FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/843
-#EXTINF:-1 ,MEGAPIX FHD H265
+#EXTINF:-1 group-title="Filmes e Series",MEGAPIX FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/263
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36958.ts
-#EXTINF:-1 ,MEGAPIX HD
+#EXTINF:-1 group-title="Filmes e Series",MEGAPIX HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/51
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/ysjGLm4.png",Megapix HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81804.ts
-#EXTINF:-1 ,MEGAPIX SD
+#EXTINF:-1 group-title="Filmes e Series",MEGAPIX SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/507
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/IXo94zb.png",METROPOLITANA FM
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113398.ts
@@ -1621,17 +1621,17 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91555.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91554.ts
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/IXo94zb.png",MIX FM SP
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113402.ts
-#EXTINF:-1 ,MIX FM SP (RADIOS)
+#EXTINF:-1 group-title="Rádios",MIX FM SP (RADIOS)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/183
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/ZRWIfvJ.png",Modo Viagem
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/954355.ts
-#EXTINF:-1 ,MODO VIAGEM FHD
+#EXTINF:-1 group-title="Variedades",MODO VIAGEM FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/85999
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/ZRWIfvJ.png",Modo Viagem HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/104056.ts
-#EXTINF:-1 ,MODO VIAGEM HD
+#EXTINF:-1 group-title="Variedades",MODO VIAGEM HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/86001
-#EXTINF:-1 ,MODO VIAGEM SD
+#EXTINF:-1 group-title="Variedades",MODO VIAGEM SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/86002
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://image.xumo.com/v1/channels/channel/99992140/600x200.png?type=white_cropped",MojiTV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002249.ts
@@ -1665,19 +1665,19 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/40518.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002224.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/u1Dm4Z0.png",Multishow
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37070.ts
-#EXTINF:-1 ,MULTISHOW 4K
+#EXTINF:-1 group-title="Variedades",MULTISHOW 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80566
-#EXTINF:-1 ,MULTISHOW FHD
+#EXTINF:-1 group-title="Variedades",MULTISHOW FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/860
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/u1Dm4Z0.png",Multishow HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36957.ts
-#EXTINF:-1 ,MULTISHOW HD
+#EXTINF:-1 group-title="Variedades",MULTISHOW HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/53
-#EXTINF:-1 ,MULTISHOW SD
+#EXTINF:-1 group-title="Variedades",MULTISHOW SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/509
-#EXTINF:-1 ,MUSIC BOX BRASIL HD
+#EXTINF:-1 group-title="Musicas",MUSIC BOX BRASIL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/511
-#EXTINF:-1 ,MUSIC BOX BRASIL SD
+#EXTINF:-1 group-title="Musicas",MUSIC BOX BRASIL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/510
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/CXYNwW8.png",Music Box Brazil
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37069.ts
@@ -1715,7 +1715,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002245.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://image.xumo.com/v1/channels/channel/99992489/600x200.png?type=white_cropped",NatureVision
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002240.ts
-#EXTINF:-1 ,NBA LEAGUE PASS 01
+#EXTINF:-1 group-title="Diversos",NBA LEAGUE PASS 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83025
 #EXTINF:-1 group-title="NBA League Pass" tvg-logo="https://i.imgur.com/baNssIQ.png",NBA League Pass 01 (A)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176855.ts
@@ -1727,7 +1727,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176856.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85566.ts
 #EXTINF:-1 group-title="NBA League Pass" tvg-logo="https://i.imgur.com/baNssIQ.png",NBA League Pass 03 (A)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176857.ts
-#EXTINF:-1 ,NBA LEAGUE PASS 05
+#EXTINF:-1 group-title="Diversos",NBA LEAGUE PASS 05
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83029
 #EXTINF:-1 group-title="NBA League Pass" tvg-logo="https://i.imgur.com/baNssIQ.png",NBA League Pass 06 (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85570.ts
@@ -1753,19 +1753,19 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36907.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36908.ts
 #EXTINF:-1 group-title="Videos Educativos" tvg-logo="https://i.imgur.com/IJuLq5c.png",Nomes das Frutas para Crianças
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/156912.ts
-#EXTINF:-1 ,NOSSO FUTEBOL 01
+#EXTINF:-1 group-title="Diversos",NOSSO FUTEBOL 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96522
-#EXTINF:-1 ,NOSSO FUTEBOL 02
+#EXTINF:-1 group-title="Diversos",NOSSO FUTEBOL 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96523
-#EXTINF:-1 ,NOSSO FUTEBOL 03
+#EXTINF:-1 group-title="Diversos",NOSSO FUTEBOL 03
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96524
-#EXTINF:-1 ,NOSSO FUTEBOL 04
+#EXTINF:-1 group-title="Diversos",NOSSO FUTEBOL 04
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96525
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/aldMbqY.png",Novelisima em Português
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002302.ts
-#EXTINF:-1 ,NOVO TEMPO HD
+#EXTINF:-1 group-title="Diversos",NOVO TEMPO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/106
-#EXTINF:-1 ,NOVO TEMPO SD
+#EXTINF:-1 group-title="Diversos",NOVO TEMPO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/586
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",NSC TV Blumenau
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52571.ts
@@ -1799,15 +1799,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/156910.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002332.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/akWlEK0.png",Off
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37063.ts
-#EXTINF:-1 ,OFF FHD
+#EXTINF:-1 group-title="Variedades",OFF FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/859
-#EXTINF:-1 ,OFF H265
+#EXTINF:-1 group-title="Variedades",OFF H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/271
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/akWlEK0.png",Off HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36954.ts
-#EXTINF:-1 ,OFF HD
+#EXTINF:-1 group-title="Variedades",OFF HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/59
-#EXTINF:-1 ,OFF SD
+#EXTINF:-1 group-title="Variedades",OFF SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/518
 #EXTINF:-1 group-title="HochuTV Adultos" tvg-logo="https://i.imgur.com/H7dfckH.png",O-la-la
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001944.ts
@@ -1829,17 +1829,17 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133504.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176677.ts
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 9 (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176681.ts
-#EXTINF:-1 ,PARAMOUNT+ 1 HD
+#EXTINF:-1 group-title="Diversos",PARAMOUNT+ 1 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96812
-#EXTINF:-1 ,PARAMOUNT+ 2 HD
+#EXTINF:-1 group-title="Diversos",PARAMOUNT+ 2 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96813
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://i.imgur.com/pjCU00K.png",Paramount+ 2 HD (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/105802.ts
-#EXTINF:-1 ,PARAMOUNT+ 3 HD
+#EXTINF:-1 group-title="Diversos",PARAMOUNT+ 3 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96814
 #EXTINF:-1 group-title="Paramount+" tvg-logo="https://i.imgur.com/pjCU00K.png",Paramount+ 3 SD (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952465.ts
-#EXTINF:-1 ,PARAMOUNT+ 4 HD
+#EXTINF:-1 group-title="Diversos",PARAMOUNT+ 4 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96815
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://image.xumo.com/v1/channels/channel/99992244/600x200.png?type=white_cropped",PBS Digital Studios
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002236.ts
@@ -1853,125 +1853,125 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/987158.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/987161.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/htRdJXf.jpeg",Pocoyo [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002331.ts
-#EXTINF:-1 ,POLISHOP HD
+#EXTINF:-1 group-title="Diversos",POLISHOP HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/885
-#EXTINF:-1 ,POLISHOP SD
+#EXTINF:-1 group-title="Diversos",POLISHOP SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/150
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/tsJFtlb.png",Power Slap
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/121564.ts
-#EXTINF:-1 ,PPV EVENTOS ESPECIAIS
+#EXTINF:-1 group-title="Diversos",PPV EVENTOS ESPECIAIS
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/462795
-#EXTINF:-1 ,PPV EXTRA 01
+#EXTINF:-1 group-title="Diversos",PPV EXTRA 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/451381
-#EXTINF:-1 ,PPV EXTRA 02
+#EXTINF:-1 group-title="Diversos",PPV EXTRA 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454757
-#EXTINF:-1 ,PPV EXTRA 03
+#EXTINF:-1 group-title="Diversos",PPV EXTRA 03
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454758
-#EXTINF:-1 ,PPV EXTRA 04
+#EXTINF:-1 group-title="Diversos",PPV EXTRA 04
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454759
-#EXTINF:-1 ,PPV EXTRA 05
+#EXTINF:-1 group-title="Diversos",PPV EXTRA 05
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454760
-#EXTINF:-1 ,PPV EXTRA 06
+#EXTINF:-1 group-title="Diversos",PPV EXTRA 06
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/454761
-#EXTINF:-1 ,PPV EXTRA 07
+#EXTINF:-1 group-title="Diversos",PPV EXTRA 07
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/537616
-#EXTINF:-1 ,PPV EXTRA 08
+#EXTINF:-1 group-title="Diversos",PPV EXTRA 08
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/537617
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 2
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37060.ts
-#EXTINF:-1 ,PREMIERE 2 FHD
+#EXTINF:-1 group-title="Premiere",PREMIERE 2 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/815
-#EXTINF:-1 ,PREMIERE 2 FHD H265
+#EXTINF:-1 group-title="Premiere",PREMIERE 2 FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/274
-#EXTINF:-1 ,PREMIERE 2 FHD*
+#EXTINF:-1 group-title="Diversos",PREMIERE 2 FHD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88563
-#EXTINF:-1 ,PREMIERE 2 H265*
+#EXTINF:-1 group-title="Diversos",PREMIERE 2 H265*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88564
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 2 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36952.ts
-#EXTINF:-1 ,PREMIERE 2 HD
+#EXTINF:-1 group-title="Premiere",PREMIERE 2 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/61
-#EXTINF:-1 ,PREMIERE 2 HD*
+#EXTINF:-1 group-title="Diversos",PREMIERE 2 HD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88565
-#EXTINF:-1 ,PREMIERE 2 SD
+#EXTINF:-1 group-title="Premiere",PREMIERE 2 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/523
-#EXTINF:-1 ,PREMIERE 2 SD*
+#EXTINF:-1 group-title="Diversos",PREMIERE 2 SD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88566
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 3
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37059.ts
-#EXTINF:-1 ,PREMIERE 3 FHD
+#EXTINF:-1 group-title="Premiere",PREMIERE 3 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/814
-#EXTINF:-1 ,PREMIERE 3 FHD H265
+#EXTINF:-1 group-title="Premiere",PREMIERE 3 FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/275
-#EXTINF:-1 ,PREMIERE 3 HD
+#EXTINF:-1 group-title="Premiere",PREMIERE 3 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/62
-#EXTINF:-1 ,PREMIERE 3 SD
+#EXTINF:-1 group-title="Premiere",PREMIERE 3 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/524
-#EXTINF:-1 ,PREMIERE 4 FHD
+#EXTINF:-1 group-title="Diversos",PREMIERE 4 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/813
-#EXTINF:-1 ,PREMIERE 4 FHD H265
+#EXTINF:-1 group-title="Diversos",PREMIERE 4 FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/276
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 4 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36950.ts
-#EXTINF:-1 ,PREMIERE 4 HD
+#EXTINF:-1 group-title="Premiere",PREMIERE 4 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/63
-#EXTINF:-1 ,PREMIERE 4 SD
+#EXTINF:-1 group-title="Diversos",PREMIERE 4 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/525
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 5
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37057.ts
-#EXTINF:-1 ,PREMIERE 5 FHD
+#EXTINF:-1 group-title="Premiere",PREMIERE 5 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/812
-#EXTINF:-1 ,PREMIERE 5 FHD H265
+#EXTINF:-1 group-title="Premiere",PREMIERE 5 FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/277
-#EXTINF:-1 ,PREMIERE 5 HD
+#EXTINF:-1 group-title="Premiere",PREMIERE 5 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/64
-#EXTINF:-1 ,PREMIERE 5 SD
+#EXTINF:-1 group-title="Premiere",PREMIERE 5 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/526
-#EXTINF:-1 ,PREMIERE 6 FHD
+#EXTINF:-1 group-title="Diversos",PREMIERE 6 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/811
-#EXTINF:-1 ,PREMIERE 6 FHD H265
+#EXTINF:-1 group-title="Diversos",PREMIERE 6 FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/278
-#EXTINF:-1 ,PREMIERE 6 HD
+#EXTINF:-1 group-title="Diversos",PREMIERE 6 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/65
-#EXTINF:-1 ,PREMIERE 6 SD
+#EXTINF:-1 group-title="Diversos",PREMIERE 6 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/527
-#EXTINF:-1 ,PREMIERE 7 FHD
+#EXTINF:-1 group-title="Diversos",PREMIERE 7 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/810
-#EXTINF:-1 ,PREMIERE 7 FHD H265
+#EXTINF:-1 group-title="Diversos",PREMIERE 7 FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/279
-#EXTINF:-1 ,PREMIERE 7 HD
+#EXTINF:-1 group-title="Diversos",PREMIERE 7 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/66
-#EXTINF:-1 ,PREMIERE 7 SD
+#EXTINF:-1 group-title="Diversos",PREMIERE 7 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/528
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 8
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/54120.ts
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 8 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64657.ts
-#EXTINF:-1 ,PREMIERE 8 HD
+#EXTINF:-1 group-title="Premiere",PREMIERE 8 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/466059
-#EXTINF:-1 ,PREMIERE 8 SD
+#EXTINF:-1 group-title="Premiere",PREMIERE 8 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/466060
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere Clubes
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37016.ts
-#EXTINF:-1 ,PREMIERE CLUBES  H265
+#EXTINF:-1 group-title="Premiere",PREMIERE CLUBES  H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/273
-#EXTINF:-1 ,PREMIERE CLUBES 4K
+#EXTINF:-1 group-title="Premiere",PREMIERE CLUBES 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80553
-#EXTINF:-1 ,PREMIERE CLUBES FHD
+#EXTINF:-1 group-title="Premiere",PREMIERE CLUBES FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/775
-#EXTINF:-1 ,PREMIERE CLUBES FHD*
+#EXTINF:-1 group-title="Diversos",PREMIERE CLUBES FHD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88559
-#EXTINF:-1 ,PREMIERE CLUBES H265*
+#EXTINF:-1 group-title="Diversos",PREMIERE CLUBES H265*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88561
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere Clubes HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36948.ts
-#EXTINF:-1 ,PREMIERE CLUBES HD
+#EXTINF:-1 group-title="Premiere",PREMIERE CLUBES HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/67
-#EXTINF:-1 ,PREMIERE CLUBES HD*
+#EXTINF:-1 group-title="Diversos",PREMIERE CLUBES HD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88560
-#EXTINF:-1 ,PREMIERE CLUBES SD
+#EXTINF:-1 group-title="Premiere",PREMIERE CLUBES SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/531
-#EXTINF:-1 ,PREMIERE CLUBES SD*
+#EXTINF:-1 group-title="Diversos",PREMIERE CLUBES SD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88562
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/FFYtx7a.png",Prime Box Brazil
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37053.ts
@@ -1991,13 +1991,13 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/87777.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952373.ts
 #EXTINF:-1 group-title="Prime Video" tvg-logo="https://i.imgur.com/0iq8t8j.png",Prime Video 04 HD (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/87778.ts
-#EXTINF:-1 ,PRIME VIDEO 1 HD
+#EXTINF:-1 group-title="Diversos",PRIME VIDEO 1 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83809
-#EXTINF:-1 ,PRIME VIDEO 2 HD
+#EXTINF:-1 group-title="Diversos",PRIME VIDEO 2 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83810
-#EXTINF:-1 ,PRIME VIDEO 3 HD
+#EXTINF:-1 group-title="Diversos",PRIME VIDEO 3 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83811
-#EXTINF:-1 ,PRIME VIDEO 4 HD
+#EXTINF:-1 group-title="Diversos",PRIME VIDEO 4 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83812
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/PNXU88U.png",Primer TV HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/86536.ts
@@ -2019,17 +2019,17 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002346.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001969.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/VtZLPOh.png",Racer Brasil [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002347.ts
-#EXTINF:-1 ,Rádio Antena 1 103.7 FM Rio De Janeiro
+#EXTINF:-1 group-title="Rádios",Rádio Antena 1 103.7 FM Rio De Janeiro
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80154
-#EXTINF:-1 ,Rádio Cultura 103.3 FM São Paulo
+#EXTINF:-1 group-title="Variados",Rádio Cultura 103.3 FM São Paulo
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80145
-#EXTINF:-1 ,RADIO EVANGELIZAR FM
+#EXTINF:-1 group-title="Rádios",RADIO EVANGELIZAR FM
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/31743
-#EXTINF:-1 ,Rádio FM O Dia FM 100.5 Rio de Janeiro
+#EXTINF:-1 group-title="Rádios",Rádio FM O Dia FM 100.5 Rio de Janeiro
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80146
-#EXTINF:-1 ,Rádio Litoral 94.5 FM Cabo Frio
+#EXTINF:-1 group-title="Rádios",Rádio Litoral 94.5 FM Cabo Frio
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80148
-#EXTINF:-1 ,RADIO SANTO ANDRE FM
+#EXTINF:-1 group-title="Rádios",RADIO SANTO ANDRE FM
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80144
 #EXTINF:-1 group-title="Band" tvg-logo="https://i.imgur.com/nCJNjyN.png",RBA TV - Band Pará
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225872.ts
@@ -2069,81 +2069,81 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73101.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/108377.ts
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",RBS TV Uruguaiana HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/108380.ts
-#EXTINF:-1 ,RECORD 4K
+#EXTINF:-1 group-title="Diversos",RECORD 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80552
-#EXTINF:-1 ,RECORD BRASILIA HD
+#EXTINF:-1 group-title="Diversos",RECORD BRASILIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/487
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/0I1TG6s.png",Record News
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/41529.ts
-#EXTINF:-1 ,RECORD NEWS FHD
+#EXTINF:-1 group-title="Noticias",RECORD NEWS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/867
-#EXTINF:-1 ,RECORD NEWS HD
+#EXTINF:-1 group-title="Noticias",RECORD NEWS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/104
-#EXTINF:-1 ,RECORD NEWS SD
+#EXTINF:-1 group-title="Noticias",RECORD NEWS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/533
-#EXTINF:-1 ,RECORD TV BAHIA HD
+#EXTINF:-1 group-title="Variedades",RECORD TV BAHIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/151
-#EXTINF:-1 ,RECORD TV BELEM HD
+#EXTINF:-1 group-title="Variedades",RECORD TV BELEM HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/342
-#EXTINF:-1 ,RECORD TV BELEM SD
+#EXTINF:-1 group-title="Variedades",RECORD TV BELEM SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76669
-#EXTINF:-1 ,RECORD TV BRASILIA FHD
+#EXTINF:-1 group-title="Variedades",RECORD TV BRASILIA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/338
-#EXTINF:-1 ,RECORD TV BRASILIA SD
+#EXTINF:-1 group-title="Variedades",RECORD TV BRASILIA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76663
-#EXTINF:-1 ,RECORD TV CAMPINAS FHD
+#EXTINF:-1 group-title="Variedades",RECORD TV CAMPINAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/387
-#EXTINF:-1 ,RECORD TV CAMPINAS HD
+#EXTINF:-1 group-title="Variedades",RECORD TV CAMPINAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/354
-#EXTINF:-1 ,RECORD TV CIDADE CE HD
+#EXTINF:-1 group-title="Variedades",RECORD TV CIDADE CE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/499567
-#EXTINF:-1 ,RECORD TV CONQUISTA MT
+#EXTINF:-1 group-title="Variedades",RECORD TV CONQUISTA MT
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/499568
-#EXTINF:-1 ,RECORD TV GOIANIA FHD
+#EXTINF:-1 group-title="Variedades",RECORD TV GOIANIA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/280
-#EXTINF:-1 ,RECORD TV GOIANIA HD
+#EXTINF:-1 group-title="Variedades",RECORD TV GOIANIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/68
-#EXTINF:-1 ,RECORD TV GOIANIA SD
+#EXTINF:-1 group-title="Variedades",RECORD TV GOIANIA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76664
-#EXTINF:-1 ,RECORD TV MANAUS HD
+#EXTINF:-1 group-title="Variedades",RECORD TV MANAUS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/371
-#EXTINF:-1 ,RECORD TV MINAS FHD
+#EXTINF:-1 group-title="Variedades",RECORD TV MINAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/112
-#EXTINF:-1 ,RECORD TV MINAS HD
+#EXTINF:-1 group-title="Variedades",RECORD TV MINAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/344
-#EXTINF:-1 ,RECORD TV MINAS SD
+#EXTINF:-1 group-title="Variedades",RECORD TV MINAS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/312
-#EXTINF:-1 ,RECORD TV PARANÁ FHD
+#EXTINF:-1 group-title="Variedades",RECORD TV PARANÁ FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/398
-#EXTINF:-1 ,RECORD TV PARANÁ HD
+#EXTINF:-1 group-title="Variedades",RECORD TV PARANÁ HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/360
-#EXTINF:-1 ,RECORD TV RECIFE HD
+#EXTINF:-1 group-title="Variedades",RECORD TV RECIFE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/453258
-#EXTINF:-1 ,RECORD TV RJ FHD
+#EXTINF:-1 group-title="Variedades",RECORD TV RJ FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/87102
-#EXTINF:-1 ,RECORD TV RJ HD
+#EXTINF:-1 group-title="Variedades",RECORD TV RJ HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/345
-#EXTINF:-1 ,RECORD TV RJ SD
+#EXTINF:-1 group-title="Variedades",RECORD TV RJ SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76666
-#EXTINF:-1 ,RECORD TV RS FHD
+#EXTINF:-1 group-title="Variedades",RECORD TV RS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/442
-#EXTINF:-1 ,RECORD TV RS HD
+#EXTINF:-1 group-title="Variedades",RECORD TV RS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/339
-#EXTINF:-1 ,RECORD TV RS SD
+#EXTINF:-1 group-title="Variedades",RECORD TV RS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76668
-#EXTINF:-1 ,RECORD TV SANTA CATARINA HD
+#EXTINF:-1 group-title="Variedades",RECORD TV SANTA CATARINA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/356
-#EXTINF:-1 ,RECORD TV SANTOS HD
+#EXTINF:-1 group-title="Variedades",RECORD TV SANTOS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/343
-#EXTINF:-1 ,RECORD TV SERGIPE HD
+#EXTINF:-1 group-title="Variedades",RECORD TV SERGIPE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/341
-#EXTINF:-1 ,RECORD TV SJRP HD
+#EXTINF:-1 group-title="Variedades",RECORD TV SJRP HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/340
-#EXTINF:-1 ,RECORD TV SP FHD
+#EXTINF:-1 group-title="Variedades",RECORD TV SP FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/727
-#EXTINF:-1 ,RECORD TV SP HD
+#EXTINF:-1 group-title="Variedades",RECORD TV SP HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/726
-#EXTINF:-1 ,RECORD TV SP SD
+#EXTINF:-1 group-title="Variedades",RECORD TV SP SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/534
 #EXTINF:-1 group-title="RecordTV" tvg-logo="https://i.imgur.com/mxen2CW.png",RecordTV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37051.ts
@@ -2249,7 +2249,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64672.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001956.ts
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/6jG09Fq.png",Rede 21
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81020.ts
-#EXTINF:-1 ,REDE ALFA
+#EXTINF:-1 group-title="Diversos",REDE ALFA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/87726
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",Rede Amazônica Ariquemes HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/108322.ts
@@ -2297,7 +2297,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133129.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/108328.ts
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/G9nf2Nz.png",Rede Brasil
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37013.ts
-#EXTINF:-1 ,REDE BRASIL SD
+#EXTINF:-1 group-title="Religiosos",REDE BRASIL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/536
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/RVtTnGS.png",Rede Gospel HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91334.ts
@@ -2307,21 +2307,21 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91513.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68407.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/52lnrcR.png",Rede NGT SP
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/976777.ts
-#EXTINF:-1 ,REDE SECULO 21 SD
+#EXTINF:-1 group-title="Diversos",REDE SECULO 21 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/82126
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/FNLlD8F.png",Rede Super
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62091.ts
-#EXTINF:-1 ,REDE SUPER
+#EXTINF:-1 group-title="Religiosos",REDE SUPER
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/596
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/FNLlD8F.png",Rede Super HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91512.ts
-#EXTINF:-1 ,REDE TV FHD
+#EXTINF:-1 group-title="Variedades",REDE TV FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/869
-#EXTINF:-1 ,REDE TV HD
+#EXTINF:-1 group-title="Variedades",REDE TV HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/69
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/9cHwqtE.png",Rede Vida
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68533.ts
-#EXTINF:-1 ,REDE VIDA
+#EXTINF:-1 group-title="Religiosos",REDE VIDA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/538
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/CW2ZX72.png",RedeTV Brasilia HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001882.ts
@@ -2341,7 +2341,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/166116.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/166117.ts
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/w0XjHWO.png",RIT
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/59354.ts
-#EXTINF:-1 ,RIT TV HD
+#EXTINF:-1 group-title="Religiosos",RIT TV HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/162
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/w0XjHWO.png",RIT TV HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81019.ts
@@ -2379,9 +2379,9 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225135.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225134.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/urLrIMt.png",Runtime Família
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225131.ts
-#EXTINF:-1 ,SAMBA E PAGODE FM (RADIOS)
+#EXTINF:-1 group-title="Rádios",SAMBA E PAGODE FM (RADIOS)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/193
-#EXTINF:-1 ,SBT 4K
+#EXTINF:-1 group-title="Diversos",SBT 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80567
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT Alterosa Leste HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/990550.ts
@@ -2391,15 +2391,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/990552.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/218194.ts
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT Belém
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/140146.ts
-#EXTINF:-1 ,SBT BRASILIA HD
+#EXTINF:-1 group-title="Diversos",SBT BRASILIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/346
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT Brasília HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62999.ts
-#EXTINF:-1 ,SBT CAMPINAS FHD
+#EXTINF:-1 group-title="Diversos",SBT CAMPINAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/386
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT Campinas HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984403.ts
-#EXTINF:-1 ,SBT CAMPINAS HD
+#EXTINF:-1 group-title="SBT",SBT CAMPINAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/385
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT Capixaba HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/963773.ts
@@ -2421,61 +2421,61 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/976849.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61890.ts
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/8F4BDDh.png",SBT News HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964154.ts
-#EXTINF:-1 ,SBT PARANÁ FHD
+#EXTINF:-1 group-title="Diversos",SBT PARANÁ FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/397
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT Paraná HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/80217.ts
-#EXTINF:-1 ,SBT RECIFE FHD
+#EXTINF:-1 group-title="Diversos",SBT RECIFE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/68341
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT Ribeirão Preto HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/142711.ts
-#EXTINF:-1 ,SBT RJ FHD
+#EXTINF:-1 group-title="Diversos",SBT RJ FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/370
-#EXTINF:-1 ,SBT RJ HD
+#EXTINF:-1 group-title="Diversos",SBT RJ HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/367
-#EXTINF:-1 ,SBT RJ SD
+#EXTINF:-1 group-title="Diversos",SBT RJ SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76680
-#EXTINF:-1 ,SBT RS HD
+#EXTINF:-1 group-title="Diversos",SBT RS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/347
-#EXTINF:-1 ,SBT SERGIPE HD
+#EXTINF:-1 group-title="Diversos",SBT SERGIPE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/348
-#EXTINF:-1 ,SBT SERRA DOURADA FHD H265
+#EXTINF:-1 group-title="Diversos",SBT SERRA DOURADA FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76682
-#EXTINF:-1 ,SBT SERRA DOURADA HD
+#EXTINF:-1 group-title="Diversos",SBT SERRA DOURADA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76683
-#EXTINF:-1 ,SBT SP FHD
+#EXTINF:-1 group-title="Diversos",SBT SP FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/870
-#EXTINF:-1 ,SBT SP FHD H265
+#EXTINF:-1 group-title="Diversos",SBT SP FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76681
-#EXTINF:-1 ,SBT SP HD
+#EXTINF:-1 group-title="Diversos",SBT SP HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/429
-#EXTINF:-1 ,SBT SP SD
+#EXTINF:-1 group-title="Diversos",SBT SP SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/540
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT TV Alterosa HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57773.ts
-#EXTINF:-1 ,SBT TV ALTEROSA MG HD
+#EXTINF:-1 group-title="Variedades",SBT TV ALTEROSA MG HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/896
-#EXTINF:-1 ,SBT TV ARATU BAHIA HD
+#EXTINF:-1 group-title="Variedades",SBT TV ARATU BAHIA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/349
-#EXTINF:-1 ,SBT TV ARATU BAHIA SD
+#EXTINF:-1 group-title="Variedades",SBT TV ARATU BAHIA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80160
-#EXTINF:-1 ,SBT TV JANGADEIRO FHD
+#EXTINF:-1 group-title="Variedades",SBT TV JANGADEIRO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76684
-#EXTINF:-1 ,SBT TV JANGADEIRO HD
+#EXTINF:-1 group-title="Variedades",SBT TV JANGADEIRO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76685
-#EXTINF:-1 ,SBT TV JORNAL PERNAMBUCO
+#EXTINF:-1 group-title="Variedades",SBT TV JORNAL PERNAMBUCO
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76686
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",SBT TV Thathi
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/218192.ts
-#EXTINF:-1 ,SBT+ NOVELAS
+#EXTINF:-1 group-title="Variedades",SBT+ NOVELAS
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/453188
-#EXTINF:-1 ,SBT+ SILVIO SANTOS
+#EXTINF:-1 group-title="Diversos",SBT+ SILVIO SANTOS
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/453192
-#EXTINF:-1 ,SBT+ TVZYN
+#EXTINF:-1 group-title="Variedades",SBT+ TVZYN
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/453193
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/IXo94zb.png",SERTANEJO FM
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/113412.ts
-#EXTINF:-1 ,SIC - PORTUGAL HD
+#EXTINF:-1 group-title="Diversos",SIC - PORTUGAL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/450356
 #EXTINF:-1 group-title="Dormir e Relaxar" tvg-logo="https://i.imgur.com/WOk5JUK.png",Som de Chuva 03
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133344.ts
@@ -2497,9 +2497,9 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133339.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133340.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/tIlcQ83.png",Sony Movies
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/132132.ts
-#EXTINF:-1 ,SONY MOVIES HD
+#EXTINF:-1 group-title="Filmes e Series",SONY MOVIES HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/93696
-#EXTINF:-1 ,SONY MOVIES SD
+#EXTINF:-1 group-title="Filmes e Series",SONY MOVIES SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/93697
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/fohXsrb.png",Sony One Emoções
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002218.ts
@@ -2507,67 +2507,67 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002218.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002365.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/fohXsrb.png",Sony One Shark Tank Brasil
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002233.ts
-#EXTINF:-1 ,SPACE 4K
+#EXTINF:-1 group-title="Diversos",SPACE 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80568
-#EXTINF:-1 ,SPACE FHD
+#EXTINF:-1 group-title="Diversos",SPACE FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/846
-#EXTINF:-1 ,SPACE FHD H265
+#EXTINF:-1 group-title="Diversos",SPACE FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/282
-#EXTINF:-1 ,SPACE HD
+#EXTINF:-1 group-title="Diversos",SPACE HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/70
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/KEn67oN.png",Space HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/221418.ts
-#EXTINF:-1 ,SPACE SD
+#EXTINF:-1 group-title="Diversos",SPACE SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/543
-#EXTINF:-1 ,SPORTV 2 FHD
+#EXTINF:-1 group-title="Variedades",SPORTV 2 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/777
-#EXTINF:-1 ,SPORTV 2 H265
+#EXTINF:-1 group-title="Variedades",SPORTV 2 H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/283
-#EXTINF:-1 ,SPORTV 2 HD
+#EXTINF:-1 group-title="Variedades",SPORTV 2 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/71
-#EXTINF:-1 ,SPORTV 2 SD
+#EXTINF:-1 group-title="Variedades",SPORTV 2 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/545
 #EXTINF:-1 group-title="SporTV" tvg-logo="https://i.imgur.com/Srf3e8w.png",SporTV 3
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37006.ts
-#EXTINF:-1 ,SPORTV 3 FHD
+#EXTINF:-1 group-title="SporTV",SPORTV 3 FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/778
-#EXTINF:-1 ,SPORTV 3 H265
+#EXTINF:-1 group-title="SporTV",SPORTV 3 H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/284
-#EXTINF:-1 ,SPORTV 3 HD
+#EXTINF:-1 group-title="SporTV",SPORTV 3 HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/72
-#EXTINF:-1 ,SPORTV 3 SD
+#EXTINF:-1 group-title="SporTV",SPORTV 3 SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/546
 #EXTINF:-1 group-title="SporTV" tvg-logo="https://i.imgur.com/SMrn7Gf.png",SporTV 4 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/127664.ts
-#EXTINF:-1 ,SPORTV 4K
+#EXTINF:-1 group-title="Variedades",SPORTV 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80569
 #EXTINF:-1 group-title="SporTV" tvg-logo="https://i.imgur.com/SMrn7Gf.png",SporTV 5 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/956438.ts
-#EXTINF:-1 ,SPORTV FHD
+#EXTINF:-1 group-title="Variedades",SPORTV FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/776
-#EXTINF:-1 ,SPORTV FHD*
+#EXTINF:-1 group-title="Variedades",SPORTV FHD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88556
-#EXTINF:-1 ,SPORTV H265
+#EXTINF:-1 group-title="Variedades",SPORTV H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/285
-#EXTINF:-1 ,SPORTV H265*
+#EXTINF:-1 group-title="Variedades",SPORTV H265*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88558
 #EXTINF:-1 group-title="SporTV" tvg-logo="https://i.imgur.com/G9nCuZT.png",SporTV HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37255.ts
-#EXTINF:-1 ,SPORTV HD
+#EXTINF:-1 group-title="SporTV",SPORTV HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/73
-#EXTINF:-1 ,SPORTV HD*
+#EXTINF:-1 group-title="Variedades",SPORTV HD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/87150
-#EXTINF:-1 ,SPORTV SD
+#EXTINF:-1 group-title="Variedades",SPORTV SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/544
-#EXTINF:-1 ,SPORTV SD*
+#EXTINF:-1 group-title="Variedades",SPORTV SD*
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88557
-#EXTINF:-1 ,SPORTYNET 01
+#EXTINF:-1 group-title="Esportes",SPORTYNET 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/546884
-#EXTINF:-1 ,SPORTYNET 02
+#EXTINF:-1 group-title="Esportes",SPORTYNET 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/546885
-#EXTINF:-1 ,SPORTYNET 03
+#EXTINF:-1 group-title="Esportes",SPORTYNET 03
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/546886
-#EXTINF:-1 ,SPORTYNET 04
+#EXTINF:-1 group-title="Esportes",SPORTYNET 04
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/546887
 #EXTINF:-1 group-title="Estaduais" tvg-logo="https://i.imgur.com/tSmGWQv.png",SportyNet HD (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/210162.ts
@@ -2575,23 +2575,23 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/210162.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002287.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://image.xumo.com/v1/channels/channel/99992100/600x200.png?type=white_cropped",Stingray Remember the 80s
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002290.ts
-#EXTINF:-1 ,STUDIO UNIVERSAL FHD
+#EXTINF:-1 group-title="Diversos",STUDIO UNIVERSAL FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/847
-#EXTINF:-1 ,STUDIO UNIVERSAL FHD H265
+#EXTINF:-1 group-title="Diversos",STUDIO UNIVERSAL FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/286
-#EXTINF:-1 ,STUDIO UNIVERSAL HD
+#EXTINF:-1 group-title="Diversos",STUDIO UNIVERSAL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/74
-#EXTINF:-1 ,STUDIO UNIVERSAL SD
+#EXTINF:-1 group-title="Diversos",STUDIO UNIVERSAL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/547
-#EXTINF:-1 ,SUPER GOSPEL
+#EXTINF:-1 group-title="Diversos",SUPER GOSPEL
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/35627
-#EXTINF:-1 ,SYFY FHD
+#EXTINF:-1 group-title="Diversos",SYFY FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/857
-#EXTINF:-1 ,SYFY FHD H265
+#EXTINF:-1 group-title="Diversos",SYFY FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/287
-#EXTINF:-1 ,SYFY HD
+#EXTINF:-1 group-title="Diversos",SYFY HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/75
-#EXTINF:-1 ,SYFY SD
+#EXTINF:-1 group-title="Diversos",SYFY SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/548
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade_logo.png",Tastemade
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002238.ts
@@ -2601,79 +2601,79 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002313.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002315.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/BH9RmeS.jpeg",Tastemade Viagem [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002319.ts
-#EXTINF:-1 ,TCM FHD
+#EXTINF:-1 group-title="Diversos",TCM FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/877
-#EXTINF:-1 ,TCM HD
+#EXTINF:-1 group-title="Diversos",TCM HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/131
-#EXTINF:-1 ,TCM SD
+#EXTINF:-1 group-title="Diversos",TCM SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/550
 #EXTINF:-1 group-title="Telecine" tvg-logo="https://i.imgur.com/BGE3Oe4.png",Telecine Action
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37040.ts
-#EXTINF:-1 ,TELECINE ACTION H265
+#EXTINF:-1 group-title="Telecine",TELECINE ACTION H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/289
 #EXTINF:-1 group-title="Telecine" tvg-logo="https://i.imgur.com/BGE3Oe4.png",Telecine Action HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36939.ts
-#EXTINF:-1 ,TELECINE ACTION HD
+#EXTINF:-1 group-title="Telecine",TELECINE ACTION HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/77
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/BGE3Oe4.png",Telecine Action HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81782.ts
-#EXTINF:-1 ,TELECINE ACTION SD
+#EXTINF:-1 group-title="Telecine",TELECINE ACTION SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/551
 #EXTINF:-1 group-title="Telecine" tvg-logo="https://i.imgur.com/xyIjiqr.png",Telecine Cult
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37039.ts
-#EXTINF:-1 ,TELECINE CULT FHD
+#EXTINF:-1 group-title="Telecine",TELECINE CULT FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/791
-#EXTINF:-1 ,TELECINE CULT H265
+#EXTINF:-1 group-title="Telecine",TELECINE CULT H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/290
 #EXTINF:-1 group-title="Telecine" tvg-logo="https://i.imgur.com/xyIjiqr.png",Telecine Cult HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36901.ts
-#EXTINF:-1 ,TELECINE CULT HD
+#EXTINF:-1 group-title="Telecine",TELECINE CULT HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/78
-#EXTINF:-1 ,TELECINE CULT SD
+#EXTINF:-1 group-title="Telecine",TELECINE CULT SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/552
-#EXTINF:-1 ,TELECINE FUN FHD
+#EXTINF:-1 group-title="Filmes e Series",TELECINE FUN FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/790
-#EXTINF:-1 ,TELECINE FUN H265
+#EXTINF:-1 group-title="Filmes e Series",TELECINE FUN H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/291
 #EXTINF:-1 group-title="Telecine" tvg-logo="https://i.imgur.com/trKxPYe.png",Telecine Fun HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36938.ts
-#EXTINF:-1 ,TELECINE FUN HD
+#EXTINF:-1 group-title="Telecine",TELECINE FUN HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/79
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/Wv6xFqb.png",Telecine Fun HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81786.ts
-#EXTINF:-1 ,TELECINE FUN SD
+#EXTINF:-1 group-title="Filmes e Series",TELECINE FUN SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/553
 #EXTINF:-1 group-title="Telecine" tvg-logo="https://i.imgur.com/KJlG3B9.png",Telecine Pipoca
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37038.ts
-#EXTINF:-1 ,TELECINE PIPOCA 4K
+#EXTINF:-1 group-title="Telecine",TELECINE PIPOCA 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80575
-#EXTINF:-1 ,TELECINE PIPOCA FHD
+#EXTINF:-1 group-title="Telecine",TELECINE PIPOCA FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/789
-#EXTINF:-1 ,TELECINE PIPOCA H265
+#EXTINF:-1 group-title="Telecine",TELECINE PIPOCA H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/292
-#EXTINF:-1 ,TELECINE PIPOCA HD
+#EXTINF:-1 group-title="Telecine",TELECINE PIPOCA HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80
-#EXTINF:-1 ,TELECINE PIPOCA SD
+#EXTINF:-1 group-title="Telecine",TELECINE PIPOCA SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/554
-#EXTINF:-1 ,TELECINE PREMIUM 4K
+#EXTINF:-1 group-title="Filmes e Series",TELECINE PREMIUM 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80554
-#EXTINF:-1 ,TELECINE PREMIUM FHD
+#EXTINF:-1 group-title="Filmes e Series",TELECINE PREMIUM FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/786
-#EXTINF:-1 ,TELECINE PREMIUM HD
+#EXTINF:-1 group-title="Filmes e Series",TELECINE PREMIUM HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/81
-#EXTINF:-1 ,TELECINE PREMIUM SD
+#EXTINF:-1 group-title="Filmes e Series",TELECINE PREMIUM SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/555
-#EXTINF:-1 ,TELECINE TOUCH FHD
+#EXTINF:-1 group-title="Filmes e Series",TELECINE TOUCH FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/788
-#EXTINF:-1 ,TELECINE TOUCH H265
+#EXTINF:-1 group-title="Filmes e Series",TELECINE TOUCH H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/294
 #EXTINF:-1 group-title="Telecine" tvg-logo="https://i.imgur.com/mSBEaWi.png",Telecine Touch HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36935.ts
-#EXTINF:-1 ,TELECINE TOUCH HD
+#EXTINF:-1 group-title="Telecine",TELECINE TOUCH HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/82
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/xbtByXc.png",Telecine Touch HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81784.ts
-#EXTINF:-1 ,TELECINE TOUCH SD
+#EXTINF:-1 group-title="Filmes e Series",TELECINE TOUCH SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/556
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/bQR7ZWn.png",Tennis TV Classics [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002343.ts
@@ -2697,51 +2697,51 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002244.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002291.ts
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/D7hWqGh.png",Times Brasil HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931461.ts
-#EXTINF:-1 ,TLC FHD
+#EXTINF:-1 group-title="Diversos",TLC FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/809
-#EXTINF:-1 ,TLC HD
+#EXTINF:-1 group-title="Diversos",TLC HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83
-#EXTINF:-1 ,TLC SD
+#EXTINF:-1 group-title="Diversos",TLC SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/558
-#EXTINF:-1 ,TNT 4K
+#EXTINF:-1 group-title="Diversos",TNT 4K
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/80555
-#EXTINF:-1 ,TNT FHD
+#EXTINF:-1 group-title="Diversos",TNT FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/785
-#EXTINF:-1 ,TNT FHD H265
+#EXTINF:-1 group-title="Diversos",TNT FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/296
-#EXTINF:-1 ,TNT HD
+#EXTINF:-1 group-title="Diversos",TNT HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/84
-#EXTINF:-1 ,TNT NOVELAS FHD
+#EXTINF:-1 group-title="Variedades",TNT NOVELAS FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/856
-#EXTINF:-1 ,TNT NOVELAS FHD H265
+#EXTINF:-1 group-title="Variedades",TNT NOVELAS FHD H265
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/288
-#EXTINF:-1 ,TNT NOVELAS HD
+#EXTINF:-1 group-title="Variedades",TNT NOVELAS HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/76
-#EXTINF:-1 ,TNT NOVELAS SD
+#EXTINF:-1 group-title="Variedades",TNT NOVELAS SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/549
-#EXTINF:-1 ,TNT SD
+#EXTINF:-1 group-title="Diversos",TNT SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/559
-#EXTINF:-1 ,TNT SERIES FHD
+#EXTINF:-1 group-title="Filmes e Series",TNT SERIES FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/849
-#EXTINF:-1 ,TNT SERIES HD
+#EXTINF:-1 group-title="Filmes e Series",TNT SERIES HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/85
-#EXTINF:-1 ,TNT SERIES SD
+#EXTINF:-1 group-title="Filmes e Series",TNT SERIES SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/560
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/C9HTbpx.png",Toon Goggles [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002335.ts
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/yfcTMl8.png",Tooncast
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37033.ts
-#EXTINF:-1 ,TOONCAST FHD
+#EXTINF:-1 group-title="Infantil",TOONCAST FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/834
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/yfcTMl8.png",Tooncast HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63647.ts
-#EXTINF:-1 ,TOONCAST HD
+#EXTINF:-1 group-title="Infantil",TOONCAST HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/124
-#EXTINF:-1 ,TOONCAST SD
+#EXTINF:-1 group-title="Infantil",TOONCAST SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/561
-#EXTINF:-1 ,TOP 40 FM (RADIOS)
+#EXTINF:-1 group-title="Rádios",TOP 40 FM (RADIOS)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/194
-#EXTINF:-1 ,TRACE BRASIL HD
+#EXTINF:-1 group-title="Diversos",TRACE BRASIL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/428888
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/KvYQlPu.png",Trace Brazuca
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73329.ts
@@ -2749,9 +2749,9 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73329.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002183.ts
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/IXo94zb.png",TRANSCONTINENTAL FM
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931417.ts
-#EXTINF:-1 ,TRAVEL BOX BRASIL FHD
+#EXTINF:-1 group-title="Diversos",TRAVEL BOX BRASIL FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/884
-#EXTINF:-1 ,TRAVEL BOX BRASIL HD
+#EXTINF:-1 group-title="Diversos",TRAVEL BOX BRASIL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/136
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/9xeBbg6.png",Travel Box Brazil
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68526.ts
@@ -2763,11 +2763,11 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002235.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002318.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/9xeBbg6.png",Travel Plus [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002321.ts
-#EXTINF:-1 ,TRUT TV FHD
+#EXTINF:-1 group-title="Variedades",TRUT TV FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/878
-#EXTINF:-1 ,TRUT TV HD
+#EXTINF:-1 group-title="Variedades",TRUT TV HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/132
-#EXTINF:-1 ,TRUT TV SD
+#EXTINF:-1 group-title="Variedades",TRUT TV SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/562
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/0nXVcY0.png",TRUTV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/215142.ts
@@ -2789,25 +2789,25 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82740.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/108400.ts
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/Yvvkhi9.png",TV Aparecida
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37003.ts
-#EXTINF:-1 ,TV APARECIDA
+#EXTINF:-1 group-title="Religiosos",TV APARECIDA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/564
 #EXTINF:-1 group-title="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png",TV ARATU HD (SBT BAHIA)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/935114.ts
-#EXTINF:-1 ,TV BRASIL
+#EXTINF:-1 group-title="Variedades",TV BRASIL
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/121
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/2dQYfeK.png",TV Camara
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/99234.ts
-#EXTINF:-1 ,TV CÂMARA
+#EXTINF:-1 group-title="Variedades",TV CÂMARA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/566
-#EXTINF:-1 ,TV CULTURA
+#EXTINF:-1 group-title="Variados",TV CULTURA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/568
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/ImZIKJD.png",TV Diário do Sertão HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/963776.ts
-#EXTINF:-1 ,TV DIARIO NORDESTE
+#EXTINF:-1 group-title="Variedades",TV DIARIO NORDESTE
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/82856
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/mlwE43v.png",TV Educativa Cascavel
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91313.ts
-#EXTINF:-1 ,TV ESCOLA
+#EXTINF:-1 group-title="Variedades",TV ESCOLA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/589
 #EXTINF:-1 group-title="Religiosos",TV Espirita do Parana
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001879.ts
@@ -2815,7 +2815,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001879.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001945.ts
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://i.imgur.com/4sFDolD.png",TV Evangelizar
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/40072.ts
-#EXTINF:-1 ,TV GAZETA HD SP
+#EXTINF:-1 group-title="Variedades",TV GAZETA HD SP
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/333
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/kU0fCHZ.png",TV Gazeta PA
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91318.ts
@@ -2825,17 +2825,17 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42998.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42978.ts
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",TV Gazeta Vitória HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42980.ts
-#EXTINF:-1 ,TV GLOOBINHO FHD
+#EXTINF:-1 group-title="Variedades",TV GLOOBINHO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/828
-#EXTINF:-1 ,TV GLOOBINHO HD
+#EXTINF:-1 group-title="Variedades",TV GLOOBINHO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/123
-#EXTINF:-1 ,TV GLOOBINHO SD
+#EXTINF:-1 group-title="Variedades",TV GLOOBINHO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/3905
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",TV Integração Ituiutaba HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/133120.ts
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/TK8eYdR.png",TV J.SID BA
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/215151.ts
-#EXTINF:-1 ,TV JUSTIÇA
+#EXTINF:-1 group-title="Variedades",TV JUSTIÇA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/569
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/NH8Wj2C.jpeg",Tv Kids mais
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91586.ts
@@ -2855,21 +2855,21 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42990.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81005.ts
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/voSakBr.png",TV NSPORTS 3 (A)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81006.ts
-#EXTINF:-1 ,TV NSPORTS HD (JOGO 1)
+#EXTINF:-1 group-title="Esportes",TV NSPORTS HD (JOGO 1)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/163
-#EXTINF:-1 ,TV NSPORTS HD (JOGO 2)
+#EXTINF:-1 group-title="Esportes",TV NSPORTS HD (JOGO 2)
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/164
-#EXTINF:-1 ,TV PAI ETERNO HD
+#EXTINF:-1 group-title="Variedades",TV PAI ETERNO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/82127
-#EXTINF:-1 ,TV PAI ETERNO SD
+#EXTINF:-1 group-title="Variedades",TV PAI ETERNO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/82128
-#EXTINF:-1 ,TV RA-TIM-BUM HD
+#EXTINF:-1 group-title="Variedades",TV RA-TIM-BUM HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/88
-#EXTINF:-1 ,TV RA-TIM-BUM SD
+#EXTINF:-1 group-title="Variedades",TV RA-TIM-BUM SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/571
-#EXTINF:-1 ,TV REDE GOSPEL FHD
+#EXTINF:-1 group-title="Variedades",TV REDE GOSPEL FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/157
-#EXTINF:-1 ,TV REDE GOSPEL HD
+#EXTINF:-1 group-title="Variedades",TV REDE GOSPEL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/152
 #EXTINF:-1 group-title="Globo" tvg-logo="https://i.imgur.com/v3JuPi6.png",TV Santa Cruz HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52564.ts
@@ -2877,7 +2877,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52564.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/108733.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png",TV Senado
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57266.ts
-#EXTINF:-1 ,TV SENADO
+#EXTINF:-1 group-title="Variedades",TV SENADO
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/572
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png",TV Senado HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63665.ts
@@ -2913,15 +2913,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/56908.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/203819.ts
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/wS908WC.png",TVE HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984404.ts
-#EXTINF:-1 ,TVR VARIEDADES
+#EXTINF:-1 group-title="Variedades",TVR VARIEDADES
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/71138
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/nfcr41Q.png",Ubisoft TV [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002352.ts
 #EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass (A)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/100815.ts
-#EXTINF:-1 ,UFC FIGHT PASS 01
+#EXTINF:-1 group-title="Diversos",UFC FIGHT PASS 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/86157
-#EXTINF:-1 ,UFC FIGHT PASS 02
+#EXTINF:-1 group-title="Diversos",UFC FIGHT PASS 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/84480
 #EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 1 HD (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/94688.ts
@@ -2929,11 +2929,11 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/94688.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/92272.ts
 #EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 3 HD (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/177136.ts
-#EXTINF:-1 ,UNIVERSAL CHANNEL FHD
+#EXTINF:-1 group-title="Diversos",UNIVERSAL CHANNEL FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/848
-#EXTINF:-1 ,UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="Diversos",UNIVERSAL CHANNEL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/90
-#EXTINF:-1 ,UNIVERSAL CHANNEL SD
+#EXTINF:-1 group-title="Diversos",UNIVERSAL CHANNEL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/585
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/R9PJRC8.png",Universal Premium
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225856.ts
@@ -2977,15 +2977,15 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001963.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91906.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/vGxAYPj.png",Warner Channel
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36996.ts
-#EXTINF:-1 ,WARNER CHANNEL FHD
+#EXTINF:-1 group-title="Filmes e Series",WARNER CHANNEL FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/850
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/vGxAYPj.png",Warner Channel HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36930.ts
-#EXTINF:-1 ,WARNER CHANNEL HD
+#EXTINF:-1 group-title="Filmes e Series",WARNER CHANNEL HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/93
 #EXTINF:-1 group-title="Legendados" tvg-logo="https://i.imgur.com/vGxAYPj.png",Warner Channel HD [L]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/221420.ts
-#EXTINF:-1 ,WARNER CHANNEL SD
+#EXTINF:-1 group-title="Filmes e Series",WARNER CHANNEL SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/581
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://image.xumo.com/v1/channels/channel/99992493/600x200.png?type=white_cropped",WaypointTV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002259.ts
@@ -3005,11 +3005,11 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002323.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/139184.ts
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/1sETXNO.png",Woohoo HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36899.ts
-#EXTINF:-1 ,WOOHOO TV FHD
+#EXTINF:-1 group-title="Variedades",WOOHOO TV FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/875
-#EXTINF:-1 ,WOOHOO TV HD
+#EXTINF:-1 group-title="Variedades",WOOHOO TV HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/129
-#EXTINF:-1 ,WOOHOO TV SD
+#EXTINF:-1 group-title="Variedades",WOOHOO TV SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/582
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/cmpqoIk.png",World Billiards TV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002186.ts
@@ -3021,7 +3021,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002350.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931422.ts
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/CFpAJYE.png",WWE Raw (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931457.ts
-#EXTINF:-1 ,X SPORTS
+#EXTINF:-1 group-title="Esportes",X SPORTS
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/538625
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/TgXwrdD.png",X-Sports HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/953317.ts
@@ -3031,9 +3031,9 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002215.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1001952.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/zmK9o7z.png",YG TV
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002185.ts
-#EXTINF:-1 ,ZAPPING 01
+#EXTINF:-1 group-title="Diversos",ZAPPING 01
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/486032
-#EXTINF:-1 ,ZAPPING 02
+#EXTINF:-1 group-title="Diversos",ZAPPING 02
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/486033
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/T7vjcZ2.png",Zapping Mix Esportes
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960719.ts
@@ -3061,79 +3061,79 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36999.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002293.ts
 #EXTINF:-1 group-title="Diversos" tvg-logo="https://i.imgur.com/LOeM1OC.png",Zenlife by Stingray [BR]
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002320.ts
-#EXTINF:-1 ,ZOOMOO FHD
+#EXTINF:-1 group-title="Diversos",ZOOMOO FHD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/832
-#EXTINF:-1 ,ZOOMOO HD
+#EXTINF:-1 group-title="Diversos",ZOOMOO HD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/833
-#EXTINF:-1 ,ZOOMOO SD
+#EXTINF:-1 group-title="Diversos",ZOOMOO SD
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/583
-#EXTINF:-1 ,# FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",# FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/430920
-#EXTINF:-1 ,# FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",# FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/430921
-#EXTINF:-1 ,# FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",# FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/430922
-#EXTINF:-1 ,# FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",# FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/430924
-#EXTINF:-1 ,#EXTM3U
+#EXTINF:-1 group-title="Diversos",#EXTM3U
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62233.ts
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83820
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83821
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83822
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83823
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83824
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83825
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83826
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83827
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83828
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83829
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83830
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83831
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83832
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83833
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83834
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83835
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83836
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83837
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83839
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83840
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83841
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/83842
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/430923
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/431236
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/431237
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/431238
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/431239
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/431240
-#EXTINF:-1 ,#FIQUE EM CASA
+#EXTINF:-1 group-title="Diversos",#FIQUE EM CASA
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/431241
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/eSqxGvk.png",[24h] 101 Dalmatas
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/70109.ts
